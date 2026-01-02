@@ -4,6 +4,10 @@ A free cross-platform application for secure internet access and privacy protect
 
 🌐 **Website**: [v4freedom.com](https://v4freedom.com/)
 
+## App Text (ARB)
+
+The `arb/` directory contains the application text resources in ARB format, one file per locale (for example `arb/app_en.arb`, `arb/app_fa.arb`). If you want to improve translations, fix copy, or add a new language, update or add the appropriate `app_*.arb` file in this directory.
+
 ## Official App Stores
 
 For the most secure installation, download from official app stores:
