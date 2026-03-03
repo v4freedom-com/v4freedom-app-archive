@@ -330,5 +330,114 @@
     "type": "ਦੀ ਕਿਸਮ",
     "block": "ਬਲਾਕ ਕਰੋ",
     "bypass": "ਬਾਈਪਾਸ",
-    "presharedKey": "ਪਹਿਲਾਂ ਤੋਂ ਸਾਂਝੀ ਕੀਤੀ ਕੁੰਜੀ"
+    "presharedKey": "ਪਹਿਲਾਂ ਤੋਂ ਸਾਂਝੀ ਕੀਤੀ ਕੁੰਜੀ",
+    "subscriptionTab": "ਗਾਹਕੀ",
+    "subscriptionStatusTitle": "ਗਾਹਕੀ ਸਥਿਤੀ",
+    "noActiveSubscription": "ਕੋਈ ਸਰਗਰਮ ਗਾਹਕੀ ਨਹੀਂ ਮਿਲੀ।",
+    "statusLabel": "ਸਥਿਤੀ",
+    "planLabel": "ਯੋਜਨਾ",
+    "categoryLabel": "ਸ਼੍ਰੇਣੀ",
+    "accessLabel": "ਪਹੁੰਚ",
+    "accessGranted": "ਮਨਜ਼ੂਰ",
+    "accessLimited": "ਸੀਮਤ",
+    "expiresLabel": "ਮਿਆਦ ਪੁੱਗਦੀ ਹੈ",
+    "daysRemainingLabel": "ਦਿਨ ਬਾਕੀ",
+    "autoRenewLabel": "ਆਟੋ ਰੀਨਿਊ",
+    "subscriptionStatusActive": "ਕਿਰਿਆਸ਼ੀਲ",
+    "subscriptionStatusInactive": "ਅਕਿਰਿਆਸ਼ੀਲ",
+    "refreshStatus": "ਸਥਿਤੀ ਰਿਫ੍ਰੈਸ਼ ਕਰੋ",
+    "manageDevicesTitle": "ਡਿਵਾਈਸਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
+    "noRegisteredDevices": "ਕੋਈ ਰਜਿਸਟਰਡ ਡਿਵਾਈਸ ਨਹੀਂ ਮਿਲੀ।",
+    "refreshDevices": "ਡੀਵਾਈਸਾਂ ਨੂੰ ਰਿਫ੍ਰੈਸ਼ ਕਰੋ",
+    "releaseDevice": "ਰੀਲਿਜ਼",
+    "deviceRegisteredLabel": "ਰਜਿਸਟਰਡ: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "ਆਖਰੀ ਵਾਰ ਦੇਖਿਆ ਗਿਆ: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "ਡਿਵਾਈਸ ਸੀਮਾ ਪੂਰੀ ਹੋ ਗਈ ਹੈ",
+    "deviceLimitReachedMessage": "ਤੁਹਾਡਾ ਖਾਤਾ ਪਹਿਲਾਂ ਹੀ ਕਿਸੇ ਹੋਰ {os} ਡਿਵਾਈਸ 'ਤੇ ਕਿਰਿਆਸ਼ੀਲ ਹੈ।\n\nਇਸ ਡਿਵਾਈਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ, ਪਹਿਲਾਂ ਦੂਜੇ ਡਿਵਾਈਸ ਤੋਂ ਲੌਗ ਆਉਟ ਕਰੋ ਜਾਂ ਇਸਨੂੰ ਜਾਰੀ ਕਰਨ ਲਈ ਸਹਾਇਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "ਠੀਕ ਹੈ",
+    "loginFirstToContinueSubscribe": "ਜਾਰੀ ਰੱਖਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਲੌਗਇਨ ਕਰੋ।",
+    "deviceErrorLoad": "ਡਿਵਾਈਸਾਂ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ।",
+    "deviceErrorRelease": "ਡਿਵਾਈਸ ਰਿਲੀਜ਼ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ।",
+    "no": "ਨਹੀਂ",
+    "proTitle": "v4freedom Pro ਦਾ ਨਵਾਂ ਵਰਜਨ",
+    "proTagline": "ਕੋਈ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ। ਕੋਈ ਸੀਮਾ ਨਹੀਂ। ਸਿਰਫ਼ ਆਜ਼ਾਦੀ।",
+    "proBenefitAdFree": "ਪੂਰੀ ਤਰ੍ਹਾਂ ਇਸ਼ਤਿਹਾਰ-ਮੁਕਤ ਅਨੁਭਵ",
+    "proBenefitDiscounts": "ਪ੍ਰੀਮੀਅਮ VPN ਸਰਵਰਾਂ 'ਤੇ ਛੋਟ",
+    "proBenefitSupport": "ਸੁਤੰਤਰ ਵਿਕਾਸ ਦਾ ਸਮਰਥਨ ਕਰੋ",
+    "monthlyLabel": "ਮਹੀਨੇਵਾਰ",
+    "yearlyLabel": "ਸਾਲਾਨਾ",
+    "lifetimeLabel": "ਜੀਵਨ ਭਰ",
+    "allOsLabel": "ਸਾਰੇ ਓ.ਐਸ.",
+    "singleOsLabel": "ਸਿੰਗਲ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "ਜਾਰੀ ਰੱਖੋ",
+    "notNow": "ਹਾਲੇ ਨਹੀਂ",
+    "payButton": "ਭੁਗਤਾਨ ਕਰੋ",
+    "chooseAvailableGateways": "ਉਪਲਬਧ ਗੇਟਵੇ ਚੁਣੋ",
+    "noPaymentGatewaysAvailable": "ਕੋਈ ਭੁਗਤਾਨ ਗੇਟਵੇ ਉਪਲਬਧ ਨਹੀਂ ਹਨ।",
+    "gatewayGooglePlay": "ਗੂਗਲ ਪਲੇ",
+    "gatewayAppStore": "ਐਪ ਸਟੋਰ",
+    "gatewayStripe": "ਧਾਰੀ",
+    "gatewayCrypto": "ਕ੍ਰਿਪਟੋਕਰੰਸੀ",
+    "upgradeToPro": "v4freedom Pro ਵਿੱਚ ਅੱਪਗ੍ਰੇਡ ਕਰੋ",
+    "configReadyToAdd": "ਜੋੜਨ ਲਈ ਤਿਆਰ ਸੰਰਚਨਾ।",
+    "missingConfigUrl": "ਸੰਰਚਨਾ URL ਗੁੰਮ ਹੈ।",
+    "paymentSuccess": "ਭੁਗਤਾਨ ਸਫਲ ਰਿਹਾ।",
+    "paymentFailedOrCanceled": "ਭੁਗਤਾਨ ਅਸਫਲ ਹੋ ਗਿਆ ਜਾਂ ਰੱਦ ਕਰ ਦਿੱਤਾ ਗਿਆ।",
+    "purchasedOsLabel": "ਖਰੀਦਿਆ OS",
+    "login": "ਲਾਗਿਨ",
+    "signUp": "ਸਾਇਨ ਅਪ",
+    "welcomeBack": "ਵਾਪਸ ਸਵਾਗਤ",
+    "createAccount": "ਆਪਣਾ ਖਾਤਾ ਬਣਾਓ",
+    "emailLabel": "ਈਮੇਲ",
+    "passwordLabel": "ਪਾਸਵਰਡ",
+    "confirmPasswordLabel": "ਪਾਸਵਰਡ ਪੱਕਾ ਕਰੋ",
+    "countryConnectFrom": "ਉਹ ਦੇਸ਼ ਜਿੱਥੋਂ ਤੁਸੀਂ ਜੁੜਦੇ ਹੋ",
+    "selectCountry": "ਦੇਸ਼ ਚੁਣੋ",
+    "emailRequired": "ਈਮੇਲ ਦੀ ਲੋੜ ਹੈ।",
+    "emailInvalid": "ਇੱਕ ਵੈਧ ਈਮੇਲ ਦਰਜ ਕਰੋ।",
+    "passwordRequired": "ਪਾਸਵਰਡ ਲੋੜੀਂਦਾ ਹੈ।",
+    "passwordMin": "ਪਾਸਵਰਡ ਘੱਟੋ-ਘੱਟ 6 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "confirmPasswordRequired": "ਆਪਣੇ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
+    "passwordsDoNotMatch": "ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦੇ।",
+    "countryRequired": "ਦੇਸ਼ ਲੋੜੀਂਦਾ ਹੈ।",
+    "confirmEmailTitle": "ਆਪਣੀ ਈਮੇਲ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "confirmEmailMessage": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਈਮੇਲ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਆਪਣੀ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਲਈ ਪੁਸ਼ਟੀਕਰਨ ਲਿੰਕ 'ਤੇ ਕਲਿੱਕ ਕਰੋ।\nਜੇਕਰ ਤੁਹਾਨੂੰ ਈਮੇਲ ਨਹੀਂ ਦਿਖਾਈ ਦਿੰਦੀ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਸਪੈਮ ਜਾਂ ਜੰਕ ਫੋਲਡਰ ਦੀ ਜਾਂਚ ਕਰੋ।",
+    "confirmEmailDone": "ਮੈਂ ਪਹਿਲਾਂ ਹੀ ਆਪਣੀ ਈਮੇਲ ਦੀ ਪੁਸ਼ਟੀ ਕਰ ਚੁੱਕਾ ਹਾਂ।",
+    "usernameRequired": "ਯੂਜ਼ਰਨੇਮ ਲੋੜੀਂਦਾ ਹੈ।",
+    "countryLabel": "ਦੇਸ਼",
+    "saveChanges": "ਬਦਲਾਵਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+    "logout": "ਲਾਗਆਉਟ",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ (EULA)",
+    "syncSubscriptionTitle": "ਆਪਣੀ ਗਾਹਕੀ ਸਿੰਕ ਕਰੋ",
+    "syncSubscriptionMessage": "ਤੁਹਾਡੀ ਖਰੀਦ ਇਸ ਡੀਵਾਈਸ 'ਤੇ ਕਿਰਿਆਸ਼ੀਲ ਹੈ। ਪਲੇਟਫਾਰਮਾਂ 'ਤੇ ਆਪਣੇ ਪਲਾਨ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।"
 }

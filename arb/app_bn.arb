@@ -330,5 +330,114 @@
     "type": "আদর্শ",
     "block": "ব্লক করুন",
     "bypass": "বাইপাস",
-    "presharedKey": "প্রিশেয়ার্ড কী"
+    "presharedKey": "প্রিশেয়ার্ড কী",
+    "subscriptionTab": "সাবস্ক্রিপশন",
+    "subscriptionStatusTitle": "সাবস্ক্রিপশনের অবস্থা",
+    "noActiveSubscription": "কোনও সক্রিয় সাবস্ক্রিপশন পাওয়া যায়নি।",
+    "statusLabel": "অবস্থা",
+    "planLabel": "পরিকল্পনা",
+    "categoryLabel": "বিভাগ",
+    "accessLabel": "অ্যাক্সেস",
+    "accessGranted": "মঞ্জুর",
+    "accessLimited": "সীমিত",
+    "expiresLabel": "মেয়াদ শেষ",
+    "daysRemainingLabel": "বাকি দিনগুলি",
+    "autoRenewLabel": "স্বয়ংক্রিয় পুনর্নবীকরণ",
+    "subscriptionStatusActive": "সক্রিয়",
+    "subscriptionStatusInactive": "নিষ্ক্রিয়",
+    "refreshStatus": "স্ট্যাটাস রিফ্রেশ করুন",
+    "manageDevicesTitle": "ডিভাইসগুলি পরিচালনা করুন",
+    "noRegisteredDevices": "কোনও নিবন্ধিত ডিভাইস পাওয়া যায়নি।",
+    "refreshDevices": "ডিভাইসগুলি রিফ্রেশ করুন",
+    "releaseDevice": "মুক্তি",
+    "deviceRegisteredLabel": "নিবন্ধিত: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "শেষবার দেখা হয়েছে: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "ডিভাইসের সীমা পৌঁছে গেছে",
+    "deviceLimitReachedMessage": "আপনার অ্যাকাউন্টটি ইতিমধ্যেই অন্য একটি {os} ডিভাইসে সক্রিয়।\n\nএই ডিভাইসটি ব্যবহার করতে, প্রথমে অন্য ডিভাইস থেকে লগ আউট করুন অথবা এটি মুক্ত করতে সহায়তার সাথে যোগাযোগ করুন।",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "ঠিক আছে",
+    "loginFirstToContinueSubscribe": "চালিয়ে যেতে প্রথমে লগইন করুন।",
+    "deviceErrorLoad": "ডিভাইস লোড করা যাচ্ছে না।",
+    "deviceErrorRelease": "ডিভাইসটি রিলিজ করতে অক্ষম।",
+    "no": "না",
+    "proTitle": "v4freedom Pro সম্পর্কে",
+    "proTagline": "কোনও বিজ্ঞাপন নেই। কোনও সীমা নেই। কেবল স্বাধীনতা।",
+    "proBenefitAdFree": "সম্পূর্ণ বিজ্ঞাপন-মুক্ত অভিজ্ঞতা",
+    "proBenefitDiscounts": "প্রিমিয়াম VPN সার্ভারে ছাড়",
+    "proBenefitSupport": "স্বাধীন উন্নয়নকে সমর্থন করুন",
+    "monthlyLabel": "মাসিক",
+    "yearlyLabel": "বার্ষিক",
+    "lifetimeLabel": "জীবনকাল",
+    "allOsLabel": "সকল অপারেটিং সিস্টেম",
+    "singleOsLabel": "একক অপারেটিং সিস্টেম - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "চালিয়ে যান",
+    "notNow": "এখন না",
+    "payButton": "বেতন",
+    "chooseAvailableGateways": "উপলব্ধ গেটওয়েগুলি বেছে নিন",
+    "noPaymentGatewaysAvailable": "কোনও পেমেন্ট গেটওয়ে উপলব্ধ নেই।",
+    "gatewayGooglePlay": "গুগল প্লে",
+    "gatewayAppStore": "অ্যাপ স্টোর",
+    "gatewayStripe": "স্ট্রাইপ",
+    "gatewayCrypto": "ক্রিপ্টোকারেন্সি",
+    "upgradeToPro": "v4freedom Pro তে আপগ্রেড করুন",
+    "configReadyToAdd": "কনফিগারেশন যোগ করার জন্য প্রস্তুত।",
+    "missingConfigUrl": "কনফিগারেশন ইউআরএল অনুপস্থিত।",
+    "paymentSuccess": "পেমেন্ট সফল হয়েছে।",
+    "paymentFailedOrCanceled": "পেমেন্ট ব্যর্থ হয়েছে অথবা বাতিল করা হয়েছে।",
+    "purchasedOsLabel": "কেনা অপারেটিং সিস্টেম",
+    "login": "লগইন",
+    "signUp": "নিবন্ধন করুন",
+    "welcomeBack": "আবার স্বাগতম।",
+    "createAccount": "আপনার অ্যাকাউন্ট তৈরি করুন",
+    "emailLabel": "ইমেইল",
+    "passwordLabel": "পাসওয়ার্ড",
+    "confirmPasswordLabel": "পাসওয়ার্ড নিশ্চিত করুন",
+    "countryConnectFrom": "আপনি যে দেশ থেকে সংযোগ করছেন",
+    "selectCountry": "দেশ নির্বাচন করুন",
+    "emailRequired": "ইমেল প্রয়োজন।",
+    "emailInvalid": "একটি বৈধ ইমেল ঠিকানা লিখুন।",
+    "passwordRequired": "পাসওয়ার্ড প্রয়োজন।",
+    "passwordMin": "পাসওয়ার্ড কমপক্ষে ৬ অক্ষরের হতে হবে।",
+    "confirmPasswordRequired": "আপনার পাসওয়ার্ড নিশ্চিত করুন।",
+    "passwordsDoNotMatch": "পাসওয়ার্ড মিলছে না।",
+    "countryRequired": "দেশটি আবশ্যক।",
+    "confirmEmailTitle": "আপনার ইমেল নিশ্চিত করুন",
+    "confirmEmailMessage": "আপনার ইমেল চেক করুন এবং আপনার নিবন্ধন সম্পূর্ণ করতে নিশ্চিতকরণ লিঙ্কে ক্লিক করুন।\nযদি আপনি ইমেলটি দেখতে না পান, তাহলে অনুগ্রহ করে আপনার স্প্যাম বা জাঙ্ক ফোল্ডারটি পরীক্ষা করুন।",
+    "confirmEmailDone": "আমি ইতিমধ্যেই আমার ইমেল নিশ্চিত করেছি।",
+    "usernameRequired": "ব্যবহারকারীর নাম আবশ্যক।",
+    "countryLabel": "দেশ",
+    "saveChanges": "পরিবর্তনগুলি সংরক্ষণ করুন",
+    "logout": "লগআউট",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "ব্যবহারের শর্তাবলী (EULA)",
+    "syncSubscriptionTitle": "আপনার সাবস্ক্রিপশন সিঙ্ক করুন",
+    "syncSubscriptionMessage": "এই ডিভাইসে আপনার কেনাকাটা সক্রিয় আছে। বিভিন্ন প্ল্যাটফর্ম জুড়ে আপনার প্ল্যান সিঙ্ক করতে সাইন ইন করুন।"
 }

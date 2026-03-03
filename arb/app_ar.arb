@@ -330,5 +330,114 @@
     "type": "يكتب",
     "block": "حاجز",
     "bypass": "بواسطة",
-    "presharedKey": "مفتاح مشترك مسبقًا"
+    "presharedKey": "مفتاح مشترك مسبقًا",
+    "subscriptionTab": "الاشتراك",
+    "subscriptionStatusTitle": "حالة الاشتراك",
+    "noActiveSubscription": "لم يتم العثور على اشتراك فعال.",
+    "statusLabel": "حالة",
+    "planLabel": "يخطط",
+    "categoryLabel": "فئة",
+    "accessLabel": "وصول",
+    "accessGranted": "ممنوح",
+    "accessLimited": "محدود",
+    "expiresLabel": "تاريخ الانتهاء",
+    "daysRemainingLabel": "الأيام المتبقية",
+    "autoRenewLabel": "التجديد التلقائي",
+    "subscriptionStatusActive": "نشيط",
+    "subscriptionStatusInactive": "غير نشط",
+    "refreshStatus": "تحديث الحالة",
+    "manageDevicesTitle": "إدارة الأجهزة",
+    "noRegisteredDevices": "لم يتم العثور على أي أجهزة مسجلة.",
+    "refreshDevices": "تحديث الأجهزة",
+    "releaseDevice": "يطلق",
+    "deviceRegisteredLabel": "تاريخ التسجيل: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "آخر ظهور: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "تم الوصول إلى الحد الأقصى للأجهزة",
+    "deviceLimitReachedMessage": "حسابك مُفعّل بالفعل على جهاز آخر يعمل بنظام التشغيل {os}.\n\nلاستخدام هذا الجهاز، يُرجى تسجيل الخروج من الجهاز الآخر أولاً أو التواصل مع الدعم الفني لتفعيله.",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "نعم",
+    "loginFirstToContinueSubscribe": "يرجى تسجيل الدخول أولاً للمتابعة.",
+    "deviceErrorLoad": "تعذر تحميل الأجهزة.",
+    "deviceErrorRelease": "تعذر تحرير الجهاز.",
+    "no": "لا",
+    "proTitle": "v4freedom Pro",
+    "proTagline": "لا إعلانات. لا حدود. فقط الحرية.",
+    "proBenefitAdFree": "تجربة خالية تمامًا من الإعلانات",
+    "proBenefitDiscounts": "خصومات على خوادم VPN المميزة",
+    "proBenefitSupport": "دعم التنمية المستقلة",
+    "monthlyLabel": "شهريا",
+    "yearlyLabel": "سنوي",
+    "lifetimeLabel": "حياة",
+    "allOsLabel": "جميع أنظمة التشغيل",
+    "singleOsLabel": "نظام تشغيل واحد - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "يكمل",
+    "notNow": "ليس الآن",
+    "payButton": "يدفع",
+    "chooseAvailableGateways": "اختر البوابات المتاحة",
+    "noPaymentGatewaysAvailable": "لا توجد بوابات دفع متاحة.",
+    "gatewayGooglePlay": "متجر جوجل بلاي",
+    "gatewayAppStore": "متجر التطبيقات",
+    "gatewayStripe": "شريط",
+    "gatewayCrypto": "العملات المشفرة",
+    "upgradeToPro": "قم بالترقية إلى الإصدار v4freedom Pro",
+    "configReadyToAdd": "الإعدادات جاهزة للإضافة.",
+    "missingConfigUrl": "عنوان URL الخاص بالتكوين مفقود.",
+    "paymentSuccess": "تمت عملية الدفع بنجاح.",
+    "paymentFailedOrCanceled": "فشلت عملية الدفع أو تم إلغاؤها.",
+    "purchasedOsLabel": "نظام التشغيل الذي تم شراؤه",
+    "login": "تسجيل الدخول",
+    "signUp": "اشتراك",
+    "welcomeBack": "مرحبًا بعودتك",
+    "createAccount": "أنشئ حسابك",
+    "emailLabel": "بريد إلكتروني",
+    "passwordLabel": "كلمة المرور",
+    "confirmPasswordLabel": "تأكيد كلمة المرور",
+    "countryConnectFrom": "البلدان التي تتصل منها",
+    "selectCountry": "اختر البلد",
+    "emailRequired": "البريد الإلكتروني مطلوب.",
+    "emailInvalid": "أدخل بريدًا إلكترونيًا صحيحًا.",
+    "passwordRequired": "كلمة المرور مطلوبة.",
+    "passwordMin": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل.",
+    "confirmPasswordRequired": "أكد كلمة مرورك.",
+    "passwordsDoNotMatch": "كلمات المرور غير متطابقة.",
+    "countryRequired": "البلد مطلوب.",
+    "confirmEmailTitle": "أكد بريدك الإلكتروني",
+    "confirmEmailMessage": "يرجى مراجعة بريدك الإلكتروني والنقر على رابط التأكيد لإتمام عملية التسجيل.\n\nإذا لم تجد الرسالة، يرجى التحقق من مجلد الرسائل غير المرغوب فيها.",
+    "confirmEmailDone": "لقد أكدت بريدي الإلكتروني بالفعل",
+    "usernameRequired": "اسم المستخدم مطلوب.",
+    "countryLabel": "دولة",
+    "saveChanges": "حفظ التغييرات",
+    "logout": "تسجيل الخروج",
+    "notAvailable": "--",
+    "avatarPlaceholder": "؟",
+    "termsOfUseEula": "شروط الاستخدام (اتفاقية ترخيص المستخدم النهائي)",
+    "syncSubscriptionTitle": "قم بمزامنة اشتراكك",
+    "syncSubscriptionMessage": "عملية الشراء الخاصة بك فعّالة على هذا الجهاز. سجّل الدخول لمزامنة خطتك عبر المنصات."
 }

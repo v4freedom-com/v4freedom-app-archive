@@ -330,5 +330,114 @@
     "type": "类型",
     "block": "堵塞",
     "bypass": "旁路",
-    "presharedKey": "预共享密钥"
+    "presharedKey": "预共享密钥",
+    "subscriptionTab": "订阅",
+    "subscriptionStatusTitle": "订阅状态",
+    "noActiveSubscription": "未找到有效订阅。",
+    "statusLabel": "地位",
+    "planLabel": "计划",
+    "categoryLabel": "类别",
+    "accessLabel": "使用权",
+    "accessGranted": "的确",
+    "accessLimited": "有限的",
+    "expiresLabel": "过期",
+    "daysRemainingLabel": "剩余天数",
+    "autoRenewLabel": "自动续订",
+    "subscriptionStatusActive": "积极的",
+    "subscriptionStatusInactive": "非活跃状态",
+    "refreshStatus": "刷新状态",
+    "manageDevicesTitle": "管理设备",
+    "noRegisteredDevices": "未找到已注册的设备。",
+    "refreshDevices": "刷新设备",
+    "releaseDevice": "发布",
+    "deviceRegisteredLabel": "注册日期：{date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "最后上线时间：{date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "设备数量已达上限",
+    "deviceLimitReachedMessage": "您的帐户已在另一台 {os} 设备上激活。\n\n要使用此设备，请先从另一台设备上注销，或联系客服解除帐户限制。",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "好的",
+    "loginFirstToContinueSubscribe": "请先登录再继续。",
+    "deviceErrorLoad": "无法加载设备。",
+    "deviceErrorRelease": "无法释放设备。",
+    "no": "不",
+    "proTitle": "v4freedom Pro",
+    "proTagline": "无广告，无限制，只有自由。",
+    "proBenefitAdFree": "完全无广告体验",
+    "proBenefitDiscounts": "高级 VPN 服务器折扣",
+    "proBenefitSupport": "支持独立发展",
+    "monthlyLabel": "月度",
+    "yearlyLabel": "每年",
+    "lifetimeLabel": "寿命",
+    "allOsLabel": "所有操作系统",
+    "singleOsLabel": "单操作系统 - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "继续",
+    "notNow": "现在不要",
+    "payButton": "支付",
+    "chooseAvailableGateways": "选择可用的网关",
+    "noPaymentGatewaysAvailable": "暂无可用的支付网关。",
+    "gatewayGooglePlay": "Google Play",
+    "gatewayAppStore": "App Store",
+    "gatewayStripe": "条纹",
+    "gatewayCrypto": "加密货币",
+    "upgradeToPro": "升级到 v4freedom Pro",
+    "configReadyToAdd": "配置已准备就绪，可以添加。",
+    "missingConfigUrl": "缺少配置 URL。",
+    "paymentSuccess": "付款成功。",
+    "paymentFailedOrCanceled": "付款失败或已被取消。",
+    "purchasedOsLabel": "购买的操作系统",
+    "login": "登录",
+    "signUp": "报名",
+    "welcomeBack": "欢迎回来",
+    "createAccount": "创建您的帐户",
+    "emailLabel": "电子邮件",
+    "passwordLabel": "密码",
+    "confirmPasswordLabel": "确认密码",
+    "countryConnectFrom": "您所在的国家/地区",
+    "selectCountry": "选择国家/地区",
+    "emailRequired": "必须提供电子邮件地址。",
+    "emailInvalid": "请输入有效的电子邮件地址。",
+    "passwordRequired": "需要输入密码。",
+    "passwordMin": "密码长度必须至少为 6 个字符。",
+    "confirmPasswordRequired": "请确认您的密码。",
+    "passwordsDoNotMatch": "密码不匹配。",
+    "countryRequired": "国家/地区为必填项。",
+    "confirmEmailTitle": "请确认您的电子邮件",
+    "confirmEmailMessage": "请查收您的电子邮件，并点击确认链接完成注册。\n\n如果您没有看到邮件，请检查您的垃圾邮件或广告邮件文件夹。",
+    "confirmEmailDone": "我已经确认了我的邮箱。",
+    "usernameRequired": "用户名是必填项。",
+    "countryLabel": "国家",
+    "saveChanges": "保存更改",
+    "logout": "注销",
+    "notAvailable": "--",
+    "avatarPlaceholder": "？",
+    "termsOfUseEula": "使用条款（最终用户许可协议）",
+    "syncSubscriptionTitle": "同步您的订阅",
+    "syncSubscriptionMessage": "您的购买已在此设备上生效。登录即可跨平台同步您的套餐。"
 }

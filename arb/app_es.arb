@@ -330,5 +330,114 @@
     "type": "Tipo",
     "block": "Bloquear",
     "bypass": "Derivación",
-    "presharedKey": "Clave precompartida"
+    "presharedKey": "Clave precompartida",
+    "subscriptionTab": "Suscripción",
+    "subscriptionStatusTitle": "Estado de suscripción",
+    "noActiveSubscription": "No se encontró ninguna suscripción activa.",
+    "statusLabel": "Estado",
+    "planLabel": "Plan",
+    "categoryLabel": "Categoría",
+    "accessLabel": "Acceso",
+    "accessGranted": "Otorgada",
+    "accessLimited": "Limitado",
+    "expiresLabel": "Caduca",
+    "daysRemainingLabel": "Días restantes",
+    "autoRenewLabel": "Renovación automática",
+    "subscriptionStatusActive": "Activo",
+    "subscriptionStatusInactive": "Inactivo",
+    "refreshStatus": "Actualizar estado",
+    "manageDevicesTitle": "Administrar dispositivos",
+    "noRegisteredDevices": "No se encontraron dispositivos registrados.",
+    "refreshDevices": "Actualizar dispositivos",
+    "releaseDevice": "Liberar",
+    "deviceRegisteredLabel": "Registrado: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "Última vez visto: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "Límite de dispositivos alcanzado",
+    "deviceLimitReachedMessage": "Tu cuenta ya está activa en otro dispositivo {os}.\n\nPara usar este dispositivo, cierra sesión primero en el otro dispositivo o contacta con el soporte técnico para liberarlo.",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "DE ACUERDO",
+    "loginFirstToContinueSubscribe": "Inicie sesión primero para continuar.",
+    "deviceErrorLoad": "No se pueden cargar dispositivos.",
+    "deviceErrorRelease": "No se puede liberar el dispositivo.",
+    "no": "No",
+    "proTitle": "v4freedom Pro",
+    "proTagline": "Sin anuncios. Sin límites. Solo libertad.",
+    "proBenefitAdFree": "Experiencia completamente libre de publicidad",
+    "proBenefitDiscounts": "Descuentos en servidores VPN premium",
+    "proBenefitSupport": "Apoyar el desarrollo independiente",
+    "monthlyLabel": "Mensual",
+    "yearlyLabel": "Anual",
+    "lifetimeLabel": "Vida",
+    "allOsLabel": "Todos los sistemas operativos",
+    "singleOsLabel": "Sistema operativo único - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "Continuar",
+    "notNow": "Ahora no",
+    "payButton": "Pagar",
+    "chooseAvailableGateways": "Elija las puertas de enlace disponibles",
+    "noPaymentGatewaysAvailable": "No hay pasarelas de pago disponibles.",
+    "gatewayGooglePlay": "Google Play",
+    "gatewayAppStore": "Tienda de aplicaciones",
+    "gatewayStripe": "Raya",
+    "gatewayCrypto": "Criptomoneda",
+    "upgradeToPro": "Actualizar a v4freedom Pro",
+    "configReadyToAdd": "Configuración lista para agregar.",
+    "missingConfigUrl": "Falta la URL de configuración.",
+    "paymentSuccess": "Pago exitoso.",
+    "paymentFailedOrCanceled": "El pago falló o fue cancelado.",
+    "purchasedOsLabel": "Sistema operativo comprado",
+    "login": "Acceso",
+    "signUp": "Inscribirse",
+    "welcomeBack": "Bienvenido de nuevo",
+    "createAccount": "Crea tu cuenta",
+    "emailLabel": "Correo electrónico",
+    "passwordLabel": "Contraseña",
+    "confirmPasswordLabel": "confirmar Contraseña",
+    "countryConnectFrom": "País desde el que te conectas",
+    "selectCountry": "Seleccionar país",
+    "emailRequired": "Se requiere correo electrónico.",
+    "emailInvalid": "Introduzca un correo electrónico válido.",
+    "passwordRequired": "Se requiere contraseña.",
+    "passwordMin": "La contraseña debe tener al menos 6 caracteres.",
+    "confirmPasswordRequired": "Confirme su contraseña.",
+    "passwordsDoNotMatch": "Las contraseñas no coinciden.",
+    "countryRequired": "Se requiere el país.",
+    "confirmEmailTitle": "Confirma tu correo electrónico",
+    "confirmEmailMessage": "Revisa tu correo electrónico y haz clic en el enlace de confirmación para completar tu registro.\nSi no lo ves, revisa tu carpeta de correo no deseado.",
+    "confirmEmailDone": "Ya confirmé mi correo",
+    "usernameRequired": "Se requiere nombre de usuario.",
+    "countryLabel": "País",
+    "saveChanges": "Guardar cambios",
+    "logout": "Cerrar sesión",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "Condiciones de uso (CLUF)",
+    "syncSubscriptionTitle": "Sincroniza tu suscripción",
+    "syncSubscriptionMessage": "Tu compra está activa en este dispositivo. Inicia sesión para sincronizar tu plan en todas las plataformas."
 }

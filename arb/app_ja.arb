@@ -330,5 +330,114 @@
     "type": "タイプ",
     "block": "ブロック",
     "bypass": "バイパス",
-    "presharedKey": "事前共有キー"
+    "presharedKey": "事前共有キー",
+    "subscriptionTab": "サブスクリプション",
+    "subscriptionStatusTitle": "サブスクリプションのステータス",
+    "noActiveSubscription": "アクティブなサブスクリプションが見つかりません。",
+    "statusLabel": "状態",
+    "planLabel": "プラン",
+    "categoryLabel": "カテゴリ",
+    "accessLabel": "アクセス",
+    "accessGranted": "付与された",
+    "accessLimited": "限定",
+    "expiresLabel": "有効期限",
+    "daysRemainingLabel": "残り日数",
+    "autoRenewLabel": "自動更新",
+    "subscriptionStatusActive": "アクティブ",
+    "subscriptionStatusInactive": "非アクティブ",
+    "refreshStatus": "ステータスを更新",
+    "manageDevicesTitle": "デバイスを管理する",
+    "noRegisteredDevices": "登録されたデバイスが見つかりません。",
+    "refreshDevices": "デバイスを更新する",
+    "releaseDevice": "リリース",
+    "deviceRegisteredLabel": "登録日: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "最終閲覧日: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "デバイス制限に達しました",
+    "deviceLimitReachedMessage": "お使いのアカウントは既に別の {os} デバイスでアクティブになっています。\n\nこのデバイスを使用するには、まず別のデバイスからログアウトするか、サポートに連絡してアカウントを解除してください。",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "わかりました",
+    "loginFirstToContinueSubscribe": "続行するにはまずログインしてください。",
+    "deviceErrorLoad": "デバイスを読み込めません。",
+    "deviceErrorRelease": "デバイスを解放できません。",
+    "no": "いいえ",
+    "proTitle": "v4freedomプロ",
+    "proTagline": "広告なし。制限なし。ただ自由。",
+    "proBenefitAdFree": "完全に広告なしの体験",
+    "proBenefitDiscounts": "プレミアムVPNサーバーの割引",
+    "proBenefitSupport": "独立した開発をサポートする",
+    "monthlyLabel": "毎月",
+    "yearlyLabel": "年間",
+    "lifetimeLabel": "一生",
+    "allOsLabel": "すべてのOS",
+    "singleOsLabel": "単一の OS - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "続く",
+    "notNow": "今じゃない",
+    "payButton": "支払う",
+    "chooseAvailableGateways": "利用可能なゲートウェイを選択する",
+    "noPaymentGatewaysAvailable": "利用できる支払いゲートウェイがありません。",
+    "gatewayGooglePlay": "Google Play",
+    "gatewayAppStore": "アプリストア",
+    "gatewayStripe": "ストライプ",
+    "gatewayCrypto": "暗号通貨",
+    "upgradeToPro": "v4freedom Proにアップグレード",
+    "configReadyToAdd": "設定を追加する準備ができました。",
+    "missingConfigUrl": "設定 URL がありません。",
+    "paymentSuccess": "支払いは成功しました。",
+    "paymentFailedOrCanceled": "支払いが失敗したか、キャンセルされました。",
+    "purchasedOsLabel": "購入したOS",
+    "login": "ログイン",
+    "signUp": "サインアップ",
+    "welcomeBack": "おかえり",
+    "createAccount": "アカウントを作成",
+    "emailLabel": "メール",
+    "passwordLabel": "パスワード",
+    "confirmPasswordLabel": "パスワードを認証する",
+    "countryConnectFrom": "接続元の国",
+    "selectCountry": "国を選択",
+    "emailRequired": "メールアドレスは必須です。",
+    "emailInvalid": "有効なメールアドレスを入力してください。",
+    "passwordRequired": "パスワードが必要です。",
+    "passwordMin": "パスワードは6文字以上である必要があります。",
+    "confirmPasswordRequired": "パスワードを確認してください。",
+    "passwordsDoNotMatch": "パスワードが一致しません。",
+    "countryRequired": "国は必須です。",
+    "confirmEmailTitle": "メールアドレスを確認してください",
+    "confirmEmailMessage": "メールをご確認の上、確認リンクをクリックして登録を完了してください。\nメールが見つからない場合は、スパムメールまたは迷惑メールフォルダをご確認ください。",
+    "confirmEmailDone": "すでにメールアドレスを確認しました",
+    "usernameRequired": "ユーザー名は必須です。",
+    "countryLabel": "国",
+    "saveChanges": "変更を保存",
+    "logout": "ログアウト",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "利用規約（EULA）",
+    "syncSubscriptionTitle": "サブスクリプションを同期する",
+    "syncSubscriptionMessage": "ご購入はこのデバイスで有効です。プラットフォーム間でプランを同期するには、サインインしてください。"
 }

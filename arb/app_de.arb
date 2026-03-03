@@ -330,5 +330,114 @@
     "type": "Typ",
     "block": "Block",
     "bypass": "Bypass",
-    "presharedKey": "Vorinstallierter Schlüssel"
+    "presharedKey": "Vorinstallierter Schlüssel",
+    "subscriptionTab": "Abonnement",
+    "subscriptionStatusTitle": "Abonnementstatus",
+    "noActiveSubscription": "Es wurde kein aktives Abonnement gefunden.",
+    "statusLabel": "Status",
+    "planLabel": "Planen",
+    "categoryLabel": "Kategorie",
+    "accessLabel": "Zugang",
+    "accessGranted": "Gewährt",
+    "accessLimited": "Beschränkt",
+    "expiresLabel": "Läuft ab",
+    "daysRemainingLabel": "Verbleibende Tage",
+    "autoRenewLabel": "Automatische Verlängerung",
+    "subscriptionStatusActive": "Aktiv",
+    "subscriptionStatusInactive": "Inaktiv",
+    "refreshStatus": "Aktualisierungsstatus",
+    "manageDevicesTitle": "Geräte verwalten",
+    "noRegisteredDevices": "Es wurden keine registrierten Geräte gefunden.",
+    "refreshDevices": "Geräte aktualisieren",
+    "releaseDevice": "Freigeben",
+    "deviceRegisteredLabel": "Registriert: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "Zuletzt gesehen: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "Gerätelimit erreicht",
+    "deviceLimitReachedMessage": "Ihr Konto ist bereits auf einem anderen {os}-Gerät aktiv.\n\nUm dieses Gerät zu verwenden, melden Sie sich bitte zuerst auf dem anderen Gerät ab oder wenden Sie sich an den Support, um es freizugeben.",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "OK",
+    "loginFirstToContinueSubscribe": "Bitte melden Sie sich zuerst an, um fortzufahren.",
+    "deviceErrorLoad": "Geräte konnten nicht geladen werden.",
+    "deviceErrorRelease": "Gerät konnte nicht freigegeben werden.",
+    "no": "NEIN",
+    "proTitle": "v4freedom Pro",
+    "proTagline": "Keine Werbung. Keine Grenzen. Nur Freiheit.",
+    "proBenefitAdFree": "Völlig werbefreies Erlebnis",
+    "proBenefitDiscounts": "Rabatte auf Premium-VPN-Server",
+    "proBenefitSupport": "Unterstützung unabhängiger Entwicklung",
+    "monthlyLabel": "Monatlich",
+    "yearlyLabel": "Jährlich",
+    "lifetimeLabel": "Lebensdauer",
+    "allOsLabel": "Alle Betriebssysteme",
+    "singleOsLabel": "Einzelnes Betriebssystem - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "Weitermachen",
+    "notNow": "Nicht jetzt",
+    "payButton": "Zahlen",
+    "chooseAvailableGateways": "Verfügbare Gateways auswählen",
+    "noPaymentGatewaysAvailable": "Es sind keine Zahlungsportale verfügbar.",
+    "gatewayGooglePlay": "Google Play",
+    "gatewayAppStore": "App Store",
+    "gatewayStripe": "Streifen",
+    "gatewayCrypto": "Kryptowährung",
+    "upgradeToPro": "Upgrade auf v4freedom Pro",
+    "configReadyToAdd": "Konfiguration kann hinzugefügt werden.",
+    "missingConfigUrl": "Fehlende Konfigurations-URL.",
+    "paymentSuccess": "Zahlung erfolgreich.",
+    "paymentFailedOrCanceled": "Die Zahlung ist fehlgeschlagen oder wurde storniert.",
+    "purchasedOsLabel": "Gekauftes Betriebssystem",
+    "login": "Login",
+    "signUp": "Melden Sie sich an",
+    "welcomeBack": "Willkommen zurück",
+    "createAccount": "Erstellen Sie Ihr Konto",
+    "emailLabel": "E-Mail",
+    "passwordLabel": "Passwort",
+    "confirmPasswordLabel": "Passwort bestätigen",
+    "countryConnectFrom": "Land, aus dem Sie sich verbinden",
+    "selectCountry": "Land auswählen",
+    "emailRequired": "Eine E-Mail-Adresse ist erforderlich.",
+    "emailInvalid": "Geben Sie eine gültige E-Mail-Adresse ein.",
+    "passwordRequired": "Ein Passwort ist erforderlich.",
+    "passwordMin": "Das Passwort muss mindestens 6 Zeichen lang sein.",
+    "confirmPasswordRequired": "Bestätigen Sie Ihr Passwort.",
+    "passwordsDoNotMatch": "Die Passwörter stimmen nicht überein.",
+    "countryRequired": "Die Angabe des Landes ist erforderlich.",
+    "confirmEmailTitle": "Bestätigen Sie Ihre E-Mail-Adresse.",
+    "confirmEmailMessage": "Bitte prüfen Sie Ihre E-Mails und klicken Sie auf den Bestätigungslink, um Ihre Registrierung abzuschließen. Sollten Sie die E-Mail nicht finden, überprüfen Sie bitte Ihren Spam- oder Junk-Ordner.",
+    "confirmEmailDone": "Ich habe meine E-Mail-Adresse bereits bestätigt.",
+    "usernameRequired": "Ein Benutzername ist erforderlich.",
+    "countryLabel": "Land",
+    "saveChanges": "Änderungen speichern",
+    "logout": "Abmelden",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "Nutzungsbedingungen (EULA)",
+    "syncSubscriptionTitle": "Synchronisieren Sie Ihr Abonnement",
+    "syncSubscriptionMessage": "Ihr Kauf ist auf diesem Gerät aktiv. Melden Sie sich an, um Ihren Tarif plattformübergreifend zu synchronisieren."
 }

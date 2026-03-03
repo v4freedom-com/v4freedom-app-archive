@@ -330,5 +330,114 @@
     "type": "قسم",
     "block": "بلاک",
     "bypass": "بائی پاس",
-    "presharedKey": "پری شیئر کردہ کلید"
+    "presharedKey": "پری شیئر کردہ کلید",
+    "subscriptionTab": "رکنیت",
+    "subscriptionStatusTitle": "رکنیت کی حیثیت",
+    "noActiveSubscription": "کوئی فعال رکنیت نہیں ملی۔",
+    "statusLabel": "حیثیت",
+    "planLabel": "منصوبہ",
+    "categoryLabel": "زمرہ",
+    "accessLabel": "رسائی",
+    "accessGranted": "عطا کیا",
+    "accessLimited": "محدود",
+    "expiresLabel": "میعاد ختم",
+    "daysRemainingLabel": "باقی دن",
+    "autoRenewLabel": "خودکار تجدید",
+    "subscriptionStatusActive": "فعال",
+    "subscriptionStatusInactive": "غیر فعال",
+    "refreshStatus": "حالت تازہ کریں۔",
+    "manageDevicesTitle": "آلات کا نظم کریں۔",
+    "noRegisteredDevices": "کوئی رجسٹرڈ آلات نہیں ملے۔",
+    "refreshDevices": "آلات کو ریفریش کریں۔",
+    "releaseDevice": "رہائی",
+    "deviceRegisteredLabel": "رجسٹرڈ: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "آخری بار دیکھا گیا: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "ڈیوائس کی حد پوری ہو گئی۔",
+    "deviceLimitReachedMessage": "آپ کا اکاؤنٹ پہلے ہی کسی دوسرے {os} ڈیوائس پر فعال ہے۔\n\nاس ڈیوائس کو استعمال کرنے کے لیے، پہلے دوسرے ڈیوائس سے لاگ آؤٹ کریں یا اسے ریلیز کرنے کے لیے سپورٹ سے رابطہ کریں۔",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "ٹھیک ہے",
+    "loginFirstToContinueSubscribe": "براہ کرم جاری رکھنے کے لیے پہلے لاگ ان کریں۔",
+    "deviceErrorLoad": "آلات لوڈ کرنے سے قاصر۔",
+    "deviceErrorRelease": "آلہ جاری کرنے سے قاصر۔",
+    "no": "نہیں",
+    "proTitle": "v4freedom Pro",
+    "proTagline": "کوئی اشتہار نہیں۔ کوئی حد نہیں۔ بس آزادی۔",
+    "proBenefitAdFree": "مکمل طور پر اشتہار سے پاک تجربہ",
+    "proBenefitDiscounts": "پریمیم VPN سرورز پر چھوٹ",
+    "proBenefitSupport": "آزاد ترقی کی حمایت کریں۔",
+    "monthlyLabel": "ماہانہ",
+    "yearlyLabel": "سالانہ",
+    "lifetimeLabel": "زندگی بھر",
+    "allOsLabel": "تمام OS",
+    "singleOsLabel": "سنگل OS - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "جاری رکھیں",
+    "notNow": "ابھی نہیں۔",
+    "payButton": "ادا کریں۔",
+    "chooseAvailableGateways": "دستیاب گیٹ ویز کا انتخاب کریں۔",
+    "noPaymentGatewaysAvailable": "کوئی ادائیگی کے گیٹ ویز دستیاب نہیں ہیں۔",
+    "gatewayGooglePlay": "گوگل پلے",
+    "gatewayAppStore": "ایپ اسٹور",
+    "gatewayStripe": "دھاری",
+    "gatewayCrypto": "کریپٹو کرنسی",
+    "upgradeToPro": "v4freedom Pro میں اپ گریڈ کریں۔",
+    "configReadyToAdd": "کنفیگ شامل کرنے کے لیے تیار ہے۔",
+    "missingConfigUrl": "config url غائب ہے۔",
+    "paymentSuccess": "ادائیگی کامیاب۔",
+    "paymentFailedOrCanceled": "ادائیگی ناکام ہو گئی یا منسوخ ہو گئی۔",
+    "purchasedOsLabel": "OS خریدا۔",
+    "login": "لاگ ان",
+    "signUp": "سائن اپ کریں۔",
+    "welcomeBack": "دوبارہ خوش آمدید",
+    "createAccount": "اپنا اکاؤنٹ بنائیں",
+    "emailLabel": "ای میل",
+    "passwordLabel": "پاس ورڈ",
+    "confirmPasswordLabel": "پاس ورڈ کی تصدیق کریں۔",
+    "countryConnectFrom": "جس ملک سے آپ جڑتے ہیں۔",
+    "selectCountry": "ملک منتخب کریں۔",
+    "emailRequired": "ای میل درکار ہے۔",
+    "emailInvalid": "ایک درست ای میل درج کریں۔",
+    "passwordRequired": "پاس ورڈ درکار ہے۔",
+    "passwordMin": "پاس ورڈ کم از کم 6 حروف کا ہونا چاہیے۔",
+    "confirmPasswordRequired": "اپنے پاس ورڈ کی تصدیق کریں۔",
+    "passwordsDoNotMatch": "پاس ورڈز مماثل نہیں ہیں۔",
+    "countryRequired": "ملک کی ضرورت ہے۔",
+    "confirmEmailTitle": "اپنے ای میل کی تصدیق کریں۔",
+    "confirmEmailMessage": "براہ کرم اپنا ای میل چیک کریں اور اپنی رجسٹریشن مکمل کرنے کے لیے تصدیقی لنک پر کلک کریں۔\nاگر آپ کو ای میل نظر نہیں آتی ہے، تو براہ کرم اپنا اسپام یا جنک فولڈر چیک کریں۔",
+    "confirmEmailDone": "میں پہلے ہی اپنے ای میل کی تصدیق کر چکا ہوں۔",
+    "usernameRequired": "صارف نام درکار ہے۔",
+    "countryLabel": "ملک",
+    "saveChanges": "تبدیلیاں محفوظ کریں۔",
+    "logout": "لاگ آؤٹ",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "استعمال کی شرائط (EULA)",
+    "syncSubscriptionTitle": "اپنی سبسکرپشن کو ہم آہنگ کریں۔",
+    "syncSubscriptionMessage": "آپ کی خریداری اس آلہ پر فعال ہے۔ تمام پلیٹ فارمز پر اپنے پلان کی مطابقت پذیری کے لیے سائن ان کریں۔"
 }

@@ -330,5 +330,114 @@
     "type": "Taper",
     "block": "Bloc",
     "bypass": "By-pass",
-    "presharedKey": "Clé prépartagée"
+    "presharedKey": "Clé prépartagée",
+    "subscriptionTab": "Abonnement",
+    "subscriptionStatusTitle": "État de l'abonnement",
+    "noActiveSubscription": "Aucun abonnement actif trouvé.",
+    "statusLabel": "Statut",
+    "planLabel": "Plan",
+    "categoryLabel": "Catégorie",
+    "accessLabel": "Accéder",
+    "accessGranted": "Accordé",
+    "accessLimited": "Limité",
+    "expiresLabel": "Expire",
+    "daysRemainingLabel": "Jours restants",
+    "autoRenewLabel": "Renouvellement automatique",
+    "subscriptionStatusActive": "Actif",
+    "subscriptionStatusInactive": "Inactif",
+    "refreshStatus": "Actualiser l'état",
+    "manageDevicesTitle": "Gérer les appareils",
+    "noRegisteredDevices": "Aucun appareil enregistré trouvé.",
+    "refreshDevices": "Actualiser les appareils",
+    "releaseDevice": "Libérer",
+    "deviceRegisteredLabel": "Inscrit(e) : {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "Dernière connexion : {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "Limite de l'appareil atteinte",
+    "deviceLimitReachedMessage": "Votre compte est déjà actif sur un autre appareil {os}.\n\nPour utiliser cet appareil, veuillez d'abord vous déconnecter de l'autre appareil ou contacter l'assistance pour le libérer.",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "D'ACCORD",
+    "loginFirstToContinueSubscribe": "Veuillez vous connecter pour continuer.",
+    "deviceErrorLoad": "Impossible de charger les périphériques.",
+    "deviceErrorRelease": "Impossible de libérer l'appareil.",
+    "no": "Non",
+    "proTitle": "v4freedom Pro",
+    "proTagline": "Pas de publicité. Pas de limites. Juste la liberté.",
+    "proBenefitAdFree": "Expérience totalement sans publicité",
+    "proBenefitDiscounts": "Réductions sur les serveurs VPN premium",
+    "proBenefitSupport": "Soutenir le développement indépendant",
+    "monthlyLabel": "Mensuel",
+    "yearlyLabel": "Annuel",
+    "lifetimeLabel": "Durée de vie",
+    "allOsLabel": "Tous les systèmes d'exploitation",
+    "singleOsLabel": "Système d'exploitation unique - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "Continuer",
+    "notNow": "Pas maintenant",
+    "payButton": "Payer",
+    "chooseAvailableGateways": "Choisissez les passerelles disponibles",
+    "noPaymentGatewaysAvailable": "Aucune passerelle de paiement disponible.",
+    "gatewayGooglePlay": "Google Play",
+    "gatewayAppStore": "App Store",
+    "gatewayStripe": "Bande",
+    "gatewayCrypto": "cryptomonnaie",
+    "upgradeToPro": "Passez à la version v4freedom Pro",
+    "configReadyToAdd": "Configuration prête à être ajoutée.",
+    "missingConfigUrl": "URL de configuration manquante.",
+    "paymentSuccess": "Paiement réussi.",
+    "paymentFailedOrCanceled": "Le paiement a échoué ou a été annulé.",
+    "purchasedOsLabel": "Système d'exploitation acheté",
+    "login": "Se connecter",
+    "signUp": "S'inscrire",
+    "welcomeBack": "Content de te revoir",
+    "createAccount": "Créez votre compte",
+    "emailLabel": "E-mail",
+    "passwordLabel": "Mot de passe",
+    "confirmPasswordLabel": "Confirmez le mot de passe",
+    "countryConnectFrom": "Pays depuis lequel vous vous connectez",
+    "selectCountry": "Sélectionnez un pays",
+    "emailRequired": "Une adresse e-mail est requise.",
+    "emailInvalid": "Veuillez saisir une adresse e-mail valide.",
+    "passwordRequired": "Un mot de passe est requis.",
+    "passwordMin": "Le mot de passe doit comporter au moins 6 caractères.",
+    "confirmPasswordRequired": "Confirmez votre mot de passe.",
+    "passwordsDoNotMatch": "Les mots de passe ne correspondent pas.",
+    "countryRequired": "Le pays est requis.",
+    "confirmEmailTitle": "Confirmez votre courriel",
+    "confirmEmailMessage": "Veuillez consulter votre boîte mail et cliquer sur le lien de confirmation pour finaliser votre inscription.\n\nSi vous ne trouvez pas l'e-mail, veuillez vérifier votre dossier de courriers indésirables.",
+    "confirmEmailDone": "J'ai déjà confirmé mon courriel.",
+    "usernameRequired": "Un nom d'utilisateur est requis.",
+    "countryLabel": "Pays",
+    "saveChanges": "Enregistrer les modifications",
+    "logout": "Déconnexion",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "Conditions d'utilisation (CLUF)",
+    "syncSubscriptionTitle": "Synchronisez votre abonnement",
+    "syncSubscriptionMessage": "Votre achat est actif sur cet appareil. Connectez-vous pour synchroniser votre forfait sur toutes les plateformes."
 }

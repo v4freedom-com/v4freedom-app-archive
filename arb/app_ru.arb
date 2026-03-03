@@ -330,5 +330,114 @@
     "type": "Тип",
     "block": "Блокировать",
     "bypass": "Объезд",
-    "presharedKey": "Предварительно согласованный ключ"
+    "presharedKey": "Предварительно согласованный ключ",
+    "subscriptionTab": "Подписка",
+    "subscriptionStatusTitle": "Статус подписки",
+    "noActiveSubscription": "Активных подписок не обнаружено.",
+    "statusLabel": "Статус",
+    "planLabel": "План",
+    "categoryLabel": "Категория",
+    "accessLabel": "Доступ",
+    "accessGranted": "Предоставленный",
+    "accessLimited": "Ограниченный",
+    "expiresLabel": "Срок действия истекает",
+    "daysRemainingLabel": "Осталось дней",
+    "autoRenewLabel": "Автоматическое продление",
+    "subscriptionStatusActive": "Активный",
+    "subscriptionStatusInactive": "Неактивный",
+    "refreshStatus": "Статус обновления",
+    "manageDevicesTitle": "Управление устройствами",
+    "noRegisteredDevices": "Зарегистрированных устройств не обнаружено.",
+    "refreshDevices": "Обновить устройства",
+    "releaseDevice": "Выпускать",
+    "deviceRegisteredLabel": "Зарегистрировано: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "Последнее посещение: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "Достигнут лимит устройств.",
+    "deviceLimitReachedMessage": "Ваша учетная запись уже активна на другом устройстве {os}.\n\nЧтобы использовать это устройство, сначала выйдите из системы на другом устройстве или обратитесь в службу поддержки для ее разблокировки.",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "ХОРОШО",
+    "loginFirstToContinueSubscribe": "Для продолжения, пожалуйста, сначала войдите в систему.",
+    "deviceErrorLoad": "Не удалось загрузить устройства.",
+    "deviceErrorRelease": "Не удалось освободить устройство.",
+    "no": "Нет",
+    "proTitle": "v4freedom Pro",
+    "proTagline": "Без рекламы. Без ограничений. Только свобода.",
+    "proBenefitAdFree": "Полностью без рекламы.",
+    "proBenefitDiscounts": "Скидки на премиум-VPN-серверы",
+    "proBenefitSupport": "Поддерживайте независимое развитие",
+    "monthlyLabel": "Ежемесячно",
+    "yearlyLabel": "Ежегодно",
+    "lifetimeLabel": "Продолжительность жизни",
+    "allOsLabel": "Все ОС",
+    "singleOsLabel": "Единая ОС - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "Продолжать",
+    "notNow": "Не сейчас",
+    "payButton": "Платить",
+    "chooseAvailableGateways": "Выберите доступные шлюзы",
+    "noPaymentGatewaysAvailable": "Платежные системы отсутствуют.",
+    "gatewayGooglePlay": "Google Play",
+    "gatewayAppStore": "Магазин приложений",
+    "gatewayStripe": "Полоса",
+    "gatewayCrypto": "Криптовалюта",
+    "upgradeToPro": "Обновите до v4freedom Pro",
+    "configReadyToAdd": "Конфигурация готова к добавлению.",
+    "missingConfigUrl": "Отсутствует URL-адрес конфигурации.",
+    "paymentSuccess": "Оплата прошла успешно.",
+    "paymentFailedOrCanceled": "Платеж не удался или был отменен.",
+    "purchasedOsLabel": "Приобретенная ОС",
+    "login": "Авторизоваться",
+    "signUp": "Зарегистрироваться",
+    "welcomeBack": "Добро пожаловать",
+    "createAccount": "Создайте свою учетную запись",
+    "emailLabel": "Электронная почта",
+    "passwordLabel": "Пароль",
+    "confirmPasswordLabel": "Подтвердите пароль",
+    "countryConnectFrom": "Страна, из которой вы подключаетесь",
+    "selectCountry": "Выберите страну",
+    "emailRequired": "Адрес электронной почты обязателен.",
+    "emailInvalid": "Введите действительный адрес электронной почты.",
+    "passwordRequired": "Требуется пароль.",
+    "passwordMin": "Пароль должен состоять как минимум из 6 символов.",
+    "confirmPasswordRequired": "Подтвердите свой пароль.",
+    "passwordsDoNotMatch": "Пароли не совпадают.",
+    "countryRequired": "Требуется указать страну.",
+    "confirmEmailTitle": "Подтвердите свой адрес электронной почты",
+    "confirmEmailMessage": "Пожалуйста, проверьте свою электронную почту и перейдите по ссылке подтверждения, чтобы завершить регистрацию.\nЕсли вы не видите письмо, проверьте папку «Спам» или «Нежелательная почта».",
+    "confirmEmailDone": "Я уже подтвердил свой адрес электронной почты.",
+    "usernameRequired": "Имя пользователя обязательно.",
+    "countryLabel": "Страна",
+    "saveChanges": "Сохраните изменения",
+    "logout": "Выйти",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "Условия использования (EULA)",
+    "syncSubscriptionTitle": "Синхронизируйте свою подписку",
+    "syncSubscriptionMessage": "Ваша покупка активна на этом устройстве. Войдите в систему, чтобы синхронизировать свой тарифный план на разных платформах."
 }

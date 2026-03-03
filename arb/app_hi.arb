@@ -330,5 +330,114 @@
     "type": "प्रकार",
     "block": "अवरोध पैदा करना",
     "bypass": "बाईपास",
-    "presharedKey": "गुप्त कुंजी"
+    "presharedKey": "गुप्त कुंजी",
+    "subscriptionTab": "सदस्यता",
+    "subscriptionStatusTitle": "सदस्यता स्थिति",
+    "noActiveSubscription": "कोई सक्रिय सदस्यता नहीं मिली।",
+    "statusLabel": "स्थिति",
+    "planLabel": "योजना",
+    "categoryLabel": "वर्ग",
+    "accessLabel": "पहुँच",
+    "accessGranted": "मंज़ूर किया गया",
+    "accessLimited": "लिमिटेड",
+    "expiresLabel": "समय-सीमा समाप्त",
+    "daysRemainingLabel": "शेष दिन",
+    "autoRenewLabel": "ऑटो नवीनीकृत",
+    "subscriptionStatusActive": "सक्रिय",
+    "subscriptionStatusInactive": "निष्क्रिय",
+    "refreshStatus": "स्थिति रीफ़्रेश करें",
+    "manageDevicesTitle": "उपकरणों का प्रबंधन करें",
+    "noRegisteredDevices": "कोई पंजीकृत उपकरण नहीं मिला।",
+    "refreshDevices": "उपकरणों को रीफ़्रेश करें",
+    "releaseDevice": "मुक्त करना",
+    "deviceRegisteredLabel": "पंजीकरण तिथि: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "अंतिम बार देखा गया: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "डिवाइस सीमा पहुँच गई",
+    "deviceLimitReachedMessage": "आपका खाता पहले से ही किसी अन्य डिवाइस पर सक्रिय है।\n\nइस डिवाइस का उपयोग करने के लिए, पहले उस डिवाइस से लॉग आउट करें या इसे सक्रिय करने के लिए सहायता टीम से संपर्क करें।",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "ठीक है",
+    "loginFirstToContinueSubscribe": "जारी रखने के लिए कृपया पहले लॉग इन करें।",
+    "deviceErrorLoad": "डिवाइस लोड करने में असमर्थ।",
+    "deviceErrorRelease": "डिवाइस को रिलीज़ करने में असमर्थ।",
+    "no": "नहीं",
+    "proTitle": "v4freedom प्रो",
+    "proTagline": "कोई विज्ञापन नहीं। कोई सीमा नहीं। बस स्वतंत्रता।",
+    "proBenefitAdFree": "पूरी तरह से विज्ञापन-मुक्त अनुभव",
+    "proBenefitDiscounts": "प्रीमियम वीपीएन सर्वरों पर छूट",
+    "proBenefitSupport": "स्वतंत्र विकास को समर्थन दें",
+    "monthlyLabel": "महीने के",
+    "yearlyLabel": "सालाना",
+    "lifetimeLabel": "जीवनभर",
+    "allOsLabel": "सभी ओएस",
+    "singleOsLabel": "सिंगल ऑपरेटिंग सिस्टम - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "जारी रखना",
+    "notNow": "अभी नहीं",
+    "payButton": "वेतन",
+    "chooseAvailableGateways": "उपलब्ध गेटवे चुनें",
+    "noPaymentGatewaysAvailable": "कोई भुगतान गेटवे उपलब्ध नहीं है।",
+    "gatewayGooglePlay": "गूगल प्ले",
+    "gatewayAppStore": "ऐप स्टोर",
+    "gatewayStripe": "पट्टी",
+    "gatewayCrypto": "cryptocurrency",
+    "upgradeToPro": "v4freedom Pro में अपग्रेड करें",
+    "configReadyToAdd": "कॉन्फ़िगरेशन जोड़ने के लिए तैयार है।",
+    "missingConfigUrl": "कॉन्फ़िगरेशन यूआरएल गायब है।",
+    "paymentSuccess": "भुगतान सफल रहा।",
+    "paymentFailedOrCanceled": "भुगतान असफल रहा या रद्द कर दिया गया।",
+    "purchasedOsLabel": "खरीदा गया ओएस",
+    "login": "लॉग इन करें",
+    "signUp": "साइन अप करें",
+    "welcomeBack": "वापसी पर स्वागत है",
+    "createAccount": "अपना खाता बनाएं",
+    "emailLabel": "ईमेल",
+    "passwordLabel": "पासवर्ड",
+    "confirmPasswordLabel": "पासवर्ड की पुष्टि कीजिये",
+    "countryConnectFrom": "जिस देश से आप जुड़ रहे हैं",
+    "selectCountry": "देश चुनें",
+    "emailRequired": "ईमेल की जरूरत है।",
+    "emailInvalid": "एक वैध ईमेल पता दर्ज करें।",
+    "passwordRequired": "पासवर्ड आवश्यक है।",
+    "passwordMin": "पासवर्ड कम से कम 6 अंकों का होना चाहिए।",
+    "confirmPasswordRequired": "अपने पासवर्ड की पुष्टि करें।",
+    "passwordsDoNotMatch": "सांकेतिक शब्द मेल नहीं खाते।",
+    "countryRequired": "देश का उल्लेख आवश्यक है।",
+    "confirmEmailTitle": "अपना ईमेल सत्यापित करें",
+    "confirmEmailMessage": "कृपया अपना ईमेल चेक करें और पंजीकरण पूरा करने के लिए पुष्टिकरण लिंक पर क्लिक करें।\nयदि आपको ईमेल नहीं मिलता है, तो कृपया अपना स्पैम या जंक फ़ोल्डर चेक करें।",
+    "confirmEmailDone": "मैंने अपना ईमेल पहले ही सत्यापित कर लिया है।",
+    "usernameRequired": "उपयोगकर्ता नाम आवश्यक है।",
+    "countryLabel": "देश",
+    "saveChanges": "परिवर्तनों को सुरक्षित करें",
+    "logout": "लॉग आउट",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "उपयोग की शर्तें (ईयूएलए)",
+    "syncSubscriptionTitle": "अपनी सदस्यता को सिंक्रोनाइज़ करें",
+    "syncSubscriptionMessage": "इस डिवाइस पर आपकी खरीदारी सक्रिय है। सभी प्लेटफॉर्म पर अपनी योजना को सिंक्रनाइज़ करने के लिए साइन इन करें।"
 }

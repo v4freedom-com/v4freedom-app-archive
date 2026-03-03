@@ -330,5 +330,114 @@
     "type": "Tip",
     "block": "Engellemek",
     "bypass": "Bypass",
-    "presharedKey": "Önceden Paylaşılan Anahtar"
+    "presharedKey": "Önceden Paylaşılan Anahtar",
+    "subscriptionTab": "Abonelik",
+    "subscriptionStatusTitle": "Abonelik durumu",
+    "noActiveSubscription": "Aktif abonelik bulunamadı.",
+    "statusLabel": "Durum",
+    "planLabel": "Plan",
+    "categoryLabel": "Kategori",
+    "accessLabel": "Erişim",
+    "accessGranted": "İmtiyazlı",
+    "accessLimited": "Sınırlı",
+    "expiresLabel": "Süresi doluyor",
+    "daysRemainingLabel": "Kalan günler",
+    "autoRenewLabel": "Otomatik yenileme",
+    "subscriptionStatusActive": "Aktif",
+    "subscriptionStatusInactive": "Aktif değil",
+    "refreshStatus": "Yenileme durumu",
+    "manageDevicesTitle": "Cihazları yönetin",
+    "noRegisteredDevices": "Kayıtlı cihaz bulunamadı.",
+    "refreshDevices": "Cihazları yenileyin",
+    "releaseDevice": "Serbest bırakmak",
+    "deviceRegisteredLabel": "Kayıt tarihi: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "Son görülme: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "Cihaz Sınırına Ulaşıldı",
+    "deviceLimitReachedMessage": "Hesabınız zaten başka bir {os} cihazında aktif durumda.\n\nBu cihazı kullanmak için önce diğer cihazdan çıkış yapın veya hesabın serbest bırakılması için destek ekibiyle iletişime geçin.",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "TAMAM",
+    "loginFirstToContinueSubscribe": "Devam etmek için lütfen önce giriş yapın.",
+    "deviceErrorLoad": "Aygıtlar yüklenemedi.",
+    "deviceErrorRelease": "Aygıt serbest bırakılamadı.",
+    "no": "HAYIR",
+    "proTitle": "v4freedom Pro",
+    "proTagline": "Reklam yok. Sınırlama yok. Sadece özgürlük.",
+    "proBenefitAdFree": "Tamamen reklamsız deneyim",
+    "proBenefitDiscounts": "Premium VPN sunucularında indirimler",
+    "proBenefitSupport": "Bağımsız gelişimi destekleyin",
+    "monthlyLabel": "Aylık",
+    "yearlyLabel": "Yıllık",
+    "lifetimeLabel": "Ömür boyu",
+    "allOsLabel": "Tüm işletim sistemleri",
+    "singleOsLabel": "Tek İşletim Sistemi - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "Devam etmek",
+    "notNow": "Şimdi değil",
+    "payButton": "Ödemek",
+    "chooseAvailableGateways": "Mevcut ağ geçitlerini seçin",
+    "noPaymentGatewaysAvailable": "Ödeme ağ geçidi mevcut değil.",
+    "gatewayGooglePlay": "Google Play",
+    "gatewayAppStore": "App Store",
+    "gatewayStripe": "Şerit",
+    "gatewayCrypto": "Kripto para birimi",
+    "upgradeToPro": "v4freedom Pro'ya Yükseltin",
+    "configReadyToAdd": "Eklemeye hazır yapılandırma.",
+    "missingConfigUrl": "Yapılandırma URL'si eksik.",
+    "paymentSuccess": "Ödeme başarılı.",
+    "paymentFailedOrCanceled": "Ödeme başarısız oldu veya iptal edildi.",
+    "purchasedOsLabel": "İşletim sistemi satın alındı.",
+    "login": "Giriş yapmak",
+    "signUp": "Üye olmak",
+    "welcomeBack": "tekrar hoşgeldiniz",
+    "createAccount": "Hesabınızı oluşturun",
+    "emailLabel": "E-posta",
+    "passwordLabel": "Şifre",
+    "confirmPasswordLabel": "Şifreyi Onayla",
+    "countryConnectFrom": "Bağlantı kurduğunuz ülke",
+    "selectCountry": "Ülke seçin",
+    "emailRequired": "E-posta adresi gereklidir.",
+    "emailInvalid": "Geçerli bir e-posta adresi girin.",
+    "passwordRequired": "Şifre gereklidir.",
+    "passwordMin": "Şifre en az 6 karakter uzunluğunda olmalıdır.",
+    "confirmPasswordRequired": "Şifrenizi onaylayın.",
+    "passwordsDoNotMatch": "Şifreler eşleşmiyor.",
+    "countryRequired": "Ülke bilgisi zorunludur.",
+    "confirmEmailTitle": "E-postanızı onaylayın",
+    "confirmEmailMessage": "Lütfen e-postanızı kontrol edin ve kaydınızı tamamlamak için onay bağlantısına tıklayın.\nE-postayı görmüyorsanız, lütfen spam veya önemsiz posta klasörünüzü kontrol edin.",
+    "confirmEmailDone": "E-postamı zaten onayladım.",
+    "usernameRequired": "Kullanıcı adı zorunludur.",
+    "countryLabel": "Ülke",
+    "saveChanges": "Değişiklikleri kaydet",
+    "logout": "Çıkış yap",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "Kullanım Şartları (EULA)",
+    "syncSubscriptionTitle": "Aboneliğinizi senkronize edin",
+    "syncSubscriptionMessage": "Satın alma işleminiz bu cihazda aktif. Planınızı platformlar arasında senkronize etmek için oturum açın."
 }

@@ -330,5 +330,114 @@
     "type": "نوع",
     "block": "مسدود کردن",
     "bypass": "عبور (بدون اعمال قوانین)",
-    "presharedKey": "کلید از پیش‌اشتراک‌گذاری‌شده"
+    "presharedKey": "کلید از پیش‌اشتراک‌گذاری‌شده",
+    "subscriptionTab": "اشتراک",
+    "subscriptionStatusTitle": "وضعیت اشتراک",
+    "noActiveSubscription": "اشتراک فعالی یافت نشد.",
+    "statusLabel": "وضعیت",
+    "planLabel": "طرح",
+    "categoryLabel": "دسته بندی",
+    "accessLabel": "دسترسی",
+    "accessGranted": "اعطا شده",
+    "accessLimited": "محدود",
+    "expiresLabel": "منقضی می‌شود",
+    "daysRemainingLabel": "روزهای باقی مانده",
+    "autoRenewLabel": "تمدید خودکار",
+    "subscriptionStatusActive": "فعال",
+    "subscriptionStatusInactive": "غیرفعال",
+    "refreshStatus": "وضعیت به‌روزرسانی",
+    "manageDevicesTitle": "مدیریت دستگاه‌ها",
+    "noRegisteredDevices": "هیچ دستگاه ثبت شده‌ای یافت نشد.",
+    "refreshDevices": "دستگاه‌ها را تازه کنید",
+    "releaseDevice": "انتشار",
+    "deviceRegisteredLabel": "ثبت شده: {date}",
+    "@deviceRegisteredLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLastSeenLabel": "آخرین بازدید: {date}",
+    "@deviceLastSeenLabel": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "deviceLimitReachedTitle": "محدودیت دستگاه به پایان رسید",
+    "deviceLimitReachedMessage": "حساب شما از قبل روی دستگاه {os} دیگری فعال است.\n\nبرای استفاده از این دستگاه، ابتدا از دستگاه دیگر خارج شوید یا برای آزادسازی آن با پشتیبانی تماس بگیرید.",
+    "@deviceLimitReachedMessage": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "ok": "باشه",
+    "loginFirstToContinueSubscribe": "برای ادامه، ابتدا وارد شوید.",
+    "deviceErrorLoad": "بارگیری دستگاه‌ها امکان‌پذیر نیست.",
+    "deviceErrorRelease": "امکان آزادسازی دستگاه وجود ندارد.",
+    "no": "خیر",
+    "proTitle": "v4freedom Pro",
+    "proTagline": "بدون تبلیغات. بدون محدودیت. فقط آزادی.",
+    "proBenefitAdFree": "تجربه کاملاً بدون تبلیغات",
+    "proBenefitDiscounts": "تخفیف روی سرورهای VPN پریمیوم",
+    "proBenefitSupport": "حمایت از توسعه مستقل",
+    "monthlyLabel": "ماهانه",
+    "yearlyLabel": "سالانه",
+    "lifetimeLabel": "مادام العمر",
+    "allOsLabel": "همه سیستم عامل ها",
+    "singleOsLabel": "سیستم عامل واحد - {os}",
+    "@singleOsLabel": {
+        "placeholders": {
+            "os": {
+                "type": "String"
+            }
+        }
+    },
+    "continueButton": "ادامه",
+    "notNow": "نه الان",
+    "payButton": "پرداخت",
+    "chooseAvailableGateways": "درگاه‌های موجود را انتخاب کنید",
+    "noPaymentGatewaysAvailable": "هیچ درگاه پرداختی در دسترس نیست.",
+    "gatewayGooglePlay": "گوگل پلی",
+    "gatewayAppStore": "فروشگاه اپلیکیشن",
+    "gatewayStripe": "نوار",
+    "gatewayCrypto": "ارز دیجیتال",
+    "upgradeToPro": "ارتقا به نسخه v4freedom Pro",
+    "configReadyToAdd": "پیکربندی آماده اضافه کردن است.",
+    "missingConfigUrl": "آدرس پیکربندی وجود ندارد.",
+    "paymentSuccess": "پرداخت با موفقیت انجام شد.",
+    "paymentFailedOrCanceled": "پرداخت ناموفق یا لغو شد.",
+    "purchasedOsLabel": "سیستم عامل خریداری شده",
+    "login": "ورود",
+    "signUp": "ثبت نام",
+    "welcomeBack": "خوش برگشتی",
+    "createAccount": "حساب کاربری خود را ایجاد کنید",
+    "emailLabel": "ایمیل",
+    "passwordLabel": "رمز عبور",
+    "confirmPasswordLabel": "تأیید رمز عبور",
+    "countryConnectFrom": "کشوری که از آن متصل می‌شوید",
+    "selectCountry": "کشور را انتخاب کنید",
+    "emailRequired": "ایمیل الزامی است.",
+    "emailInvalid": "یک ایمیل معتبر وارد کنید.",
+    "passwordRequired": "رمز عبور الزامی است.",
+    "passwordMin": "رمز عبور باید حداقل 6 کاراکتر باشد.",
+    "confirmPasswordRequired": "رمز عبور خود را تأیید کنید.",
+    "passwordsDoNotMatch": "رمزهای عبور مطابقت ندارند.",
+    "countryRequired": "کشور الزامی است.",
+    "confirmEmailTitle": "ایمیل خود را تایید کنید",
+    "confirmEmailMessage": "لطفاً ایمیل خود را بررسی کنید و روی لینک تأیید کلیک کنید تا ثبت نام شما تکمیل شود.\n\nاگر ایمیل را مشاهده نکردید، لطفاً پوشه هرزنامه یا ایمیل‌های ناخواسته خود را نیز بررسی کنید.",
+    "confirmEmailDone": "من قبلاً ایمیلم را تأیید کرده‌ام",
+    "usernameRequired": "نام کاربری الزامی است.",
+    "countryLabel": "کشور",
+    "saveChanges": "ذخیره تغییرات",
+    "logout": "خروج",
+    "notAvailable": "--",
+    "avatarPlaceholder": "?",
+    "termsOfUseEula": "شرایط استفاده (EULA)",
+    "syncSubscriptionTitle": "اشتراک خود را همگام‌سازی کنید",
+    "syncSubscriptionMessage": "خرید شما در این دستگاه فعال است. برای همگام‌سازی طرح خود در پلتفرم‌های مختلف، وارد سیستم شوید."
 }
