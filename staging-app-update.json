@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-11T17:47:36.541892046Z",
+  "generated_at": "2026-10-11T17:50:03.339869668Z",
   "platforms": {
     "android": {
       "latest_build": 256,
@@ -9,6 +9,37 @@
       "rollout_percent": 100,
       "store_url": "https://play.google.com/store/apps/details?id=com.cilix.v4freedom",
       "direct_url": "https://media.githubusercontent.com/media/v4freedom-com/v4freedom-app-archive/refs/heads/main/v4freedom.apk",
+      "notes": {
+        "de": {
+          "title": "sehr gut release",
+          "features": [
+            "danke",
+            "KI"
+          ]
+        },
+        "en": {
+          "title": "New version releaeed",
+          "features": [
+            "Per vpn",
+            "Smart"
+          ]
+        },
+        "fa": {
+          "title": "اپدیت جدید امد",
+          "features": [
+            "وی پی ان پرمیوم",
+            "هوشمند"
+          ]
+        }
+      }
+    },
+    "ios": {
+      "latest_build": 256,
+      "latest_version": "3.9.6",
+      "min_supported_build": 256,
+      "rollout_percent": 100,
+      "store_url": "https://apps.apple.com/app/v4freedom/id6748381720",
+      "direct_url": "https://v4f.me/appstore",
       "notes": {
         "de": {
           "title": "sehr gut release",
