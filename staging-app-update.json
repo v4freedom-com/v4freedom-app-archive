@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-11T17:50:03.339869668Z",
+  "generated_at": "2026-10-11T18:18:24.796932287Z",
   "platforms": {
     "android": {
-      "latest_build": 256,
+      "latest_build": 257,
       "latest_version": "3.9.6",
       "min_supported_build": 256,
       "rollout_percent": 100,
@@ -34,7 +34,7 @@
       }
     },
     "ios": {
-      "latest_build": 256,
+      "latest_build": 257,
       "latest_version": "3.9.6",
       "min_supported_build": 256,
       "rollout_percent": 100,
