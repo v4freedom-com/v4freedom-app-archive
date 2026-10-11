@@ -1,0 +1,37 @@
+{
+  "schema": 2,
+  "generated_at": "2026-10-11T17:47:36.541892046Z",
+  "platforms": {
+    "android": {
+      "latest_build": 256,
+      "latest_version": "3.9.6",
+      "min_supported_build": 256,
+      "rollout_percent": 100,
+      "store_url": "https://play.google.com/store/apps/details?id=com.cilix.v4freedom",
+      "direct_url": "https://media.githubusercontent.com/media/v4freedom-com/v4freedom-app-archive/refs/heads/main/v4freedom.apk",
+      "notes": {
+        "de": {
+          "title": "sehr gut release",
+          "features": [
+            "danke",
+            "KI"
+          ]
+        },
+        "en": {
+          "title": "New version releaeed",
+          "features": [
+            "Per vpn",
+            "Smart"
+          ]
+        },
+        "fa": {
+          "title": "اپدیت جدید امد",
+          "features": [
+            "وی پی ان پرمیوم",
+            "هوشمند"
+          ]
+        }
+      }
+    }
+  }
+}
