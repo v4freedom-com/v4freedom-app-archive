@@ -1,0 +1,206 @@
+{
+  "schema": 2,
+  "generated_at": "2026-10-29T22:42:34.290965957Z",
+  "platforms": {
+    "android": {
+      "latest_build": 273,
+      "latest_version": "4.0.10",
+      "min_supported_build": 273,
+      "rollout_percent": 100,
+      "store_url": "https://play.google.com/store/apps/details?id=com.cilix.v4freedom",
+      "direct_url": "https://media.githubusercontent.com/media/v4freedom-com/v4freedom-app-archive/refs/heads/main/v4freedom.apk",
+      "notes": {
+        "en": {
+          "title": "v4freedom v4 released",
+          "features": [
+            "New design with dark and light themes",
+            "Encrypted cloud storage for your configs",
+            "Automatic config sync across all your devices",
+            "Smart personal server setup",
+            "Premium VPN plans",
+            "Smarter auto-connect to the best server",
+            "Referral and loyalty program",
+            "Email, Telegram and push notifications",
+            ".v4f file import and per-server usage details",
+            "DoH settings, plus SSH and memory fixes"
+          ]
+        },
+        "fa": {
+          "title": "v4freedom ورژن ۴ منتشر شد.",
+          "features": [
+            "طراحی جدید با تم دارک و لایت",
+            "ذخیره‌سازی ابری رمزنگاری‌شده کانفیگ‌ها",
+            "همگام‌سازی خودکار کانکشن‌ها بین همه دستگاه‌ها",
+            "راه‌اندازی هوشمند سرور شخصی",
+            "پلن‌های Premium VPN",
+            "اتصال خودکار هوشمندتر به بهترین سرور",
+            "برنامه رفرال و وفاداری",
+            "اطلاع‌رسانی با ایمیل، تلگرام و نوتیفیکیشن",
+            "ایمپورت فایل v4f و جزئیات مصرف هر سرور",
+            "تنظیمات DoH و رفع مشکل SSH و حافظه"
+          ]
+        }
+      }
+    },
+    "ios": {
+      "latest_build": 271,
+      "latest_version": "4.0.8",
+      "min_supported_build": 271,
+      "rollout_percent": 100,
+      "store_url": "https://apps.apple.com/app/v4freedom/id6748381720",
+      "direct_url": "https://v4f.me/appstore",
+      "notes": {
+        "en": {
+          "title": "v4freedom v4 released",
+          "features": [
+            "New design with dark and light themes",
+            "Encrypted cloud storage for your configs",
+            "Automatic config sync across all your devices",
+            "Smart personal server setup",
+            "Premium VPN plans",
+            "Smarter auto-connect to the best server",
+            "Referral and loyalty program",
+            "Email, Telegram and push notifications",
+            ".v4f file import and per-server usage details",
+            "DoH settings, plus SSH and memory fixes"
+          ]
+        },
+        "fa": {
+          "title": "v4freedom ورژن ۴ منتشر شد.",
+          "features": [
+            "طراحی جدید با تم دارک و لایت",
+            "ذخیره‌سازی ابری رمزنگاری‌شده کانفیگ‌ها",
+            "همگام‌سازی خودکار کانکشن‌ها بین همه دستگاه‌ها",
+            "راه‌اندازی هوشمند سرور شخصی",
+            "پلن‌های Premium VPN",
+            "اتصال خودکار هوشمندتر به بهترین سرور",
+            "برنامه رفرال و وفاداری",
+            "اطلاع‌رسانی با ایمیل، تلگرام و نوتیفیکیشن",
+            "ایمپورت فایل v4f و جزئیات مصرف هر سرور",
+            "تنظیمات DoH و رفع مشکل SSH و حافظه"
+          ]
+        }
+      }
+    },
+    "linux": {
+      "latest_build": 269,
+      "latest_version": "4.0.6",
+      "min_supported_build": 269,
+      "rollout_percent": 100,
+      "store_url": "https://snapcraft.io/v4freedom",
+      "direct_url": "https://github.com/v4freedom-com/v4freedom-app-archive",
+      "notes": {
+        "en": {
+          "title": "v4freedom v4 released",
+          "features": [
+            "New design with dark and light themes",
+            "Encrypted cloud storage for your configs",
+            "Automatic config sync across all your devices",
+            "Smart personal server setup",
+            "Premium VPN plans",
+            "Smarter auto-connect to the best server",
+            "Referral and loyalty program",
+            "Email, Telegram and push notifications",
+            ".v4f file import and per-server usage details",
+            "DoH settings, plus SSH and memory fixes"
+          ]
+        },
+        "fa": {
+          "title": "v4freedom ورژن ۴ منتشر شد.",
+          "features": [
+            "طراحی جدید با تم دارک و لایت",
+            "ذخیره‌سازی ابری رمزنگاری‌شده کانفیگ‌ها",
+            "همگام‌سازی خودکار کانکشن‌ها بین همه دستگاه‌ها",
+            "راه‌اندازی هوشمند سرور شخصی",
+            "پلن‌های Premium VPN",
+            "اتصال خودکار هوشمندتر به بهترین سرور",
+            "برنامه رفرال و وفاداری",
+            "اطلاع‌رسانی با ایمیل، تلگرام و نوتیفیکیشن",
+            "ایمپورت فایل v4f و جزئیات مصرف هر سرور",
+            "تنظیمات DoH و رفع مشکل SSH و حافظه"
+          ]
+        }
+      }
+    },
+    "macos": {
+      "latest_build": 267,
+      "latest_version": "4.0.4",
+      "min_supported_build": 267,
+      "rollout_percent": 100,
+      "store_url": "https://apps.apple.com/app/v4freedom/id6748381720",
+      "direct_url": "https://v4f.me/appstore",
+      "notes": {
+        "en": {
+          "title": "v4freedom v4 released",
+          "features": [
+            "New design with dark and light themes",
+            "Encrypted cloud storage for your configs",
+            "Automatic config sync across all your devices",
+            "Smart personal server setup",
+            "Premium VPN plans",
+            "Smarter auto-connect to the best server",
+            "Referral and loyalty program",
+            "Email, Telegram and push notifications",
+            ".v4f file import and per-server usage details",
+            "DoH settings, plus SSH and memory fixes"
+          ]
+        },
+        "fa": {
+          "title": "v4freedom ورژن ۴ منتشر شد.",
+          "features": [
+            "طراحی جدید با تم دارک و لایت",
+            "ذخیره‌سازی ابری رمزنگاری‌شده کانفیگ‌ها",
+            "همگام‌سازی خودکار کانکشن‌ها بین همه دستگاه‌ها",
+            "راه‌اندازی هوشمند سرور شخصی",
+            "پلن‌های Premium VPN",
+            "اتصال خودکار هوشمندتر به بهترین سرور",
+            "برنامه رفرال و وفاداری",
+            "اطلاع‌رسانی با ایمیل، تلگرام و نوتیفیکیشن",
+            "ایمپورت فایل v4f و جزئیات مصرف هر سرور",
+            "تنظیمات DoH و رفع مشکل SSH و حافظه"
+          ]
+        }
+      }
+    },
+    "windows": {
+      "latest_build": 273,
+      "latest_version": "4.0.10",
+      "min_supported_build": 273,
+      "rollout_percent": 100,
+      "store_url": "https://apps.microsoft.com/store/detail/v4freedom/9N39W0CHLGB9",
+      "direct_url": "https://raw.githubusercontent.com/v4freedom-com/v4freedom-app-archive/refs/heads/main/v4freedom.exe",
+      "notes": {
+        "en": {
+          "title": "v4freedom v4 released",
+          "features": [
+            "New design with dark and light themes",
+            "Encrypted cloud storage for your configs",
+            "Automatic config sync across all your devices",
+            "Smart personal server setup",
+            "Premium VPN plans",
+            "Smarter auto-connect to the best server",
+            "Referral and loyalty program",
+            "Email, Telegram and push notifications",
+            ".v4f file import and per-server usage details",
+            "DoH settings, plus SSH and memory fixes"
+          ]
+        },
+        "fa": {
+          "title": "v4freedom ورژن ۴ منتشر شد.",
+          "features": [
+            "طراحی جدید با تم دارک و لایت",
+            "ذخیره‌سازی ابری رمزنگاری‌شده کانفیگ‌ها",
+            "همگام‌سازی خودکار کانکشن‌ها بین همه دستگاه‌ها",
+            "راه‌اندازی هوشمند سرور شخصی",
+            "پلن‌های Premium VPN",
+            "اتصال خودکار هوشمندتر به بهترین سرور",
+            "برنامه رفرال و وفاداری",
+            "اطلاع‌رسانی با ایمیل، تلگرام و نوتیفیکیشن",
+            "ایمپورت فایل v4f و جزئیات مصرف هر سرور",
+            "تنظیمات DoH و رفع مشکل SSH و حافظه"
+          ]
+        }
+      }
+    }
+  }
+}
