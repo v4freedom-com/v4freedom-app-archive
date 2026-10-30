@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-30T07:35:06.618609162Z",
+  "generated_at": "2026-10-30T08:06:49.427561577Z",
   "platforms": {
     "android": {
       "latest_build": 273,
@@ -163,9 +163,9 @@
       }
     },
     "windows": {
-      "latest_build": 267,
-      "latest_version": "4.0.4",
-      "min_supported_build": 267,
+      "latest_build": 273,
+      "latest_version": "4.0.10",
+      "min_supported_build": 273,
       "rollout_percent": 100,
       "store_url": "https://apps.microsoft.com/store/detail/v4freedom/9N39W0CHLGB9",
       "direct_url": "https://raw.githubusercontent.com/v4freedom-com/v4freedom-app-archive/refs/heads/main/v4freedom.exe",
