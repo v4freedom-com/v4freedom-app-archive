@@ -738,6 +738,7 @@
   "premiumVpnReadyNotificationBody": "Deine Premium-VPN-Verbindung ist jetzt aktiv.",
   "premiumVpnSetupFailedNotificationTitle": "VPN-Einrichtung fehlgeschlagen",
   "premiumVpnSetupFailedNotificationBody": "Wir konnten dein VPN nicht einrichten — bitte versuche es erneut oder wende dich an den Support.",
+  "premiumVpnAddNetworkError": "Dein Netzwerk konnte den VPN-Server nicht erreichen. Verbinde dich mit einem beliebigen VPN in der App oder wechsle das Netzwerk und versuche es dann erneut.",
   "redeemVoucher": "Gutschein einlösen",
   "redeemVoucherTitle": "Gutschein einlösen",
   "redeemVoucherHeading": "Hast du einen Gutscheincode?",
@@ -1368,7 +1369,7 @@
   "vpnHelperWorking": "Warte auf Bestätigung…",
   "vpnHelperActionFailed": "Das hat nicht geklappt. Du kannst es erneut versuchen oder stattdessen den Proxy-Modus verwenden.",
   "vpnHelperCheckAgain": "Erneut prüfen",
-  "vpnHelperStartFailed": "Der VPN-Dienst konnte den Tunnel nicht starten: {reason}",
+  "vpnHelperStartFailed": "Die Verbindung konnte nicht gestartet werden. Versuche einen anderen Server. Wenn das Problem weiterhin auftritt, sende einen Bericht über den Support-Bereich.",
   "vpnHelperTunnelLost": "Der VPN-Dienst hat die Verbindung beendet. Dein Netzwerk funktioniert wieder normal.",
   "vpnHelperReleaseFailed": "Das VPN konnte dein Netzwerk nicht wiederherstellen. Versuche es erneut mit „Netzwerkeinstellungen auf Standard zurücksetzen“.",
   "certPinTitle": "Serverzertifikat überprüfen",
@@ -1500,7 +1501,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "Update erforderlich",
   "updateAvailableTitle": "Update verfügbar",
-  "updateRequiredBody": "Diese Version wird nicht mehr unterstützt. Aktualisiere, um V4Freedom weiter zu nutzen.",
+  "updateRequiredBody": "Diese Version wird nicht mehr unterstützt. Aktualisiere, um v4freedom weiter zu nutzen.",
   "updateAvailableBody": "Eine neue Version mit Verbesserungen und Fehlerbehebungen ist da.",
   "updateWhatsNew": "Neuerungen",
   "updateNow": "Jetzt aktualisieren",
@@ -1563,5 +1564,6 @@
   "shareConnectionInfoCost": "Andere nutzen die Bandbreite deines Servers, und starke Nutzung kann dazu führen, dass er früher entdeckt und blockiert wird.",
   "shareConnectionInfoPrivate": "Lass dies aus, damit die Konfiguration privat bleibt.",
   "shareConnectionThanks": "Danke, dass du hilfst, das Internet frei zu halten 💜",
-  "saveToCloudSubtitle": "Synchronisiere diese Konfiguration auf deinen Geräten."
+  "saveToCloudSubtitle": "Synchronisiere diese Konfiguration auf deinen Geräten.",
+  "privacyChoices": "Datenschutzoptionen"
 }

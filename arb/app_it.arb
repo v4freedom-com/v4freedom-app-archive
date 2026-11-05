@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "La tua connessione VPN premium è ora attiva.",
   "premiumVpnSetupFailedNotificationTitle": "Configurazione VPN non riuscita",
   "premiumVpnSetupFailedNotificationBody": "Non siamo riusciti a configurare la tua VPN. Riprova o contatta l’assistenza.",
+  "premiumVpnAddNetworkError": "La tua rete non è riuscita a raggiungere il server VPN. Connettiti a una VPN qualsiasi nell'app o cambia rete, poi riprova ad aggiungerla.",
   "redeemVoucher": "Riscatta un buono",
   "redeemVoucherTitle": "Riscatta un buono",
   "redeemVoucherHeading": "Hai un codice per un buono?",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "In attesa di approvazione…",
   "vpnHelperActionFailed": "Non ha funzionato. Puoi riprovare oppure usare invece la modalità Proxy.",
   "vpnHelperCheckAgain": "Controlla di nuovo",
-  "vpnHelperStartFailed": "Il servizio VPN non è riuscito ad avviare il tunnel: {reason}",
+  "vpnHelperStartFailed": "Impossibile avviare la connessione. Prova un altro server. Se il problema persiste, invia una segnalazione dalla sezione Assistenza.",
   "vpnHelperTunnelLost": "Il servizio VPN ha interrotto la connessione. La tua rete è tornata alla normalità.",
   "vpnHelperReleaseFailed": "La VPN non è riuscita a ripristinare la tua rete. Usa «Ripristina le impostazioni di rete predefinite» per riprovare.",
   "certPinTitle": "Verifica il certificato del server",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "Aggiornamento necessario",
   "updateAvailableTitle": "Aggiornamento disponibile",
-  "updateRequiredBody": "Questa versione non è più supportata. Aggiorna per continuare a usare V4Freedom.",
+  "updateRequiredBody": "Questa versione non è più supportata. Aggiorna per continuare a usare v4freedom.",
   "updateAvailableBody": "È disponibile una nuova versione con miglioramenti e correzioni.",
   "updateWhatsNew": "Novità",
   "updateNow": "Aggiorna ora",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "Altri useranno la banda del tuo server, e un uso intenso può farlo individuare e bloccare prima.",
   "shareConnectionInfoPrivate": "Lascia disattivato per mantenere la configurazione privata.",
   "shareConnectionThanks": "Grazie per aiutare a mantenere Internet libero 💜",
-  "saveToCloudSubtitle": "Sincronizza questa configurazione sui tuoi dispositivi."
+  "saveToCloudSubtitle": "Sincronizza questa configurazione sui tuoi dispositivi.",
+  "privacyChoices": "Opzioni sulla privacy"
 }

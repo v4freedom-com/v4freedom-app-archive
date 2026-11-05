@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "Votre connexion VPN premium est maintenant active.",
   "premiumVpnSetupFailedNotificationTitle": "Échec de la configuration du VPN",
   "premiumVpnSetupFailedNotificationBody": "Nous n’avons pas pu configurer votre VPN. Veuillez réessayer ou contacter l’assistance.",
+  "premiumVpnAddNetworkError": "Votre réseau n'a pas pu joindre le serveur VPN. Connectez-vous à n'importe quel VPN de l'application ou changez de réseau, puis réessayez de l'ajouter.",
   "redeemVoucher": "Utiliser un bon",
   "redeemVoucherTitle": "Utiliser un bon",
   "redeemVoucherHeading": "Vous avez un code de bon ?",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "En attente d'approbation…",
   "vpnHelperActionFailed": "Cela n'a pas fonctionné. Vous pouvez réessayer ou utiliser le mode Proxy à la place.",
   "vpnHelperCheckAgain": "Vérifier à nouveau",
-  "vpnHelperStartFailed": "Le service VPN n'a pas pu démarrer le tunnel : {reason}",
+  "vpnHelperStartFailed": "Impossible de démarrer la connexion. Essayez un autre serveur. Si le problème persiste, envoyez un rapport depuis la section Assistance.",
   "vpnHelperTunnelLost": "Le service VPN a arrêté la connexion. Votre réseau est revenu à la normale.",
   "vpnHelperReleaseFailed": "Le VPN n'a pas pu rétablir votre réseau. Utilisez « Rétablir les paramètres réseau par défaut » pour réessayer.",
   "certPinTitle": "Vérifier le certificat du serveur",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "Mise à jour obligatoire",
   "updateAvailableTitle": "Mise à jour disponible",
-  "updateRequiredBody": "Cette version n'est plus prise en charge. Mettez à jour pour continuer à utiliser V4Freedom.",
+  "updateRequiredBody": "Cette version n'est plus prise en charge. Mettez à jour pour continuer à utiliser v4freedom.",
   "updateAvailableBody": "Une nouvelle version avec des améliorations et des correctifs est prête.",
   "updateWhatsNew": "Nouveautés",
   "updateNow": "Mettre à jour",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "D’autres utiliseront la bande passante de votre serveur, et une forte utilisation peut le faire repérer et bloquer plus tôt.",
   "shareConnectionInfoPrivate": "Laissez cette option désactivée pour garder la configuration privée.",
   "shareConnectionThanks": "Merci d’aider à garder Internet libre 💜",
-  "saveToCloudSubtitle": "Synchronisez cette configuration sur vos appareils."
+  "saveToCloudSubtitle": "Synchronisez cette configuration sur vos appareils.",
+  "privacyChoices": "Choix de confidentialité"
 }

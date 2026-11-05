@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "プレミアム VPN 接続が有効になりました。",
   "premiumVpnSetupFailedNotificationTitle": "VPN の設定に失敗しました",
   "premiumVpnSetupFailedNotificationBody": "VPN を設定できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。",
+  "premiumVpnAddNetworkError": "お使いのネットワークからVPNサーバーに接続できませんでした。アプリ内のいずれかのVPNに接続するか別のネットワークに切り替えてから、もう一度追加してください。",
   "redeemVoucher": "引換コードを使う",
   "redeemVoucherTitle": "引換コードを使う",
   "redeemVoucherHeading": "引換コードをお持ちですか？",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "承認を待っています…",
   "vpnHelperActionFailed": "うまくいきませんでした。もう一度試すか、代わりに Proxy モードを使用してください。",
   "vpnHelperCheckAgain": "もう一度確認",
-  "vpnHelperStartFailed": "VPN サービスがトンネルを開始できませんでした: {reason}",
+  "vpnHelperStartFailed": "接続を開始できませんでした。別のサーバーをお試しください。問題が続く場合は、サポートからレポートを送信してください。",
   "vpnHelperTunnelLost": "VPN サービスが接続を停止しました。ネットワークは通常の状態に戻りました。",
   "vpnHelperReleaseFailed": "VPN がネットワークを復元できませんでした。もう一度試すには「ネットワーク設定をデフォルトにリセット」を使用してください。",
   "certPinTitle": "サーバー証明書を確認",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "アップデートが必要です",
   "updateAvailableTitle": "アップデートがあります",
-  "updateRequiredBody": "このバージョンはサポートが終了しました。V4Freedom を使い続けるには更新してください。",
+  "updateRequiredBody": "このバージョンはサポートが終了しました。v4freedom を使い続けるには更新してください。",
   "updateAvailableBody": "改善と不具合修正を含む新しいバージョンが利用できます。",
   "updateWhatsNew": "新機能",
   "updateNow": "今すぐ更新",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "他の人があなたのサーバーの帯域を使用します。利用が多いと、早く検知されてブロックされる可能性があります。",
   "shareConnectionInfoPrivate": "設定を自分だけのものにする場合はオフのままにしてください。",
   "shareConnectionThanks": "インターネットの自由を守るためのご協力に感謝します 💜",
-  "saveToCloudSubtitle": "この設定をすべてのデバイスで同期します。"
+  "saveToCloudSubtitle": "この設定をすべてのデバイスで同期します。",
+  "privacyChoices": "プライバシーの選択"
 }

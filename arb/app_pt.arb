@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "Sua conexão VPN premium já está ativa.",
   "premiumVpnSetupFailedNotificationTitle": "Falha ao configurar a VPN",
   "premiumVpnSetupFailedNotificationBody": "Não conseguimos configurar sua VPN. Tente novamente ou entre em contato com o suporte.",
+  "premiumVpnAddNetworkError": "Sua rede não conseguiu alcançar o servidor VPN. Conecte-se a qualquer VPN do app ou troque de rede e tente adicionar novamente.",
   "redeemVoucher": "Resgatar voucher",
   "redeemVoucherTitle": "Resgatar voucher",
   "redeemVoucherHeading": "Tem um código de voucher?",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "Aguardando aprovação…",
   "vpnHelperActionFailed": "Não funcionou. Você pode tentar novamente ou usar o modo Proxy.",
   "vpnHelperCheckAgain": "Verificar novamente",
-  "vpnHelperStartFailed": "O serviço de VPN não conseguiu iniciar o túnel: {reason}",
+  "vpnHelperStartFailed": "Não foi possível iniciar a conexão. Tente outro servidor. Se o problema continuar, envie um relatório pela seção Suporte.",
   "vpnHelperTunnelLost": "O serviço de VPN interrompeu a conexão. Sua rede voltou ao normal.",
   "vpnHelperReleaseFailed": "A VPN não conseguiu restaurar sua rede. Use \"Redefinir configurações de rede para o padrão\" para tentar novamente.",
   "certPinTitle": "Verificar o certificado do servidor",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "Atualização obrigatória",
   "updateAvailableTitle": "Atualização disponível",
-  "updateRequiredBody": "Esta versão não é mais compatível. Atualize para continuar usando o V4Freedom.",
+  "updateRequiredBody": "Esta versão não é mais compatível. Atualize para continuar usando o v4freedom.",
   "updateAvailableBody": "Uma nova versão com melhorias e correções está disponível.",
   "updateWhatsNew": "Novidades",
   "updateNow": "Atualizar agora",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "Outras pessoas usarão a largura de banda do seu servidor, e o uso intenso pode fazer com que ele seja detectado e bloqueado mais cedo.",
   "shareConnectionInfoPrivate": "Deixe desativado para manter a configuração privada.",
   "shareConnectionThanks": "Obrigado por ajudar a manter a internet livre 💜",
-  "saveToCloudSubtitle": "Sincronize esta configuração entre seus dispositivos."
+  "saveToCloudSubtitle": "Sincronize esta configuração entre seus dispositivos.",
+  "privacyChoices": "Opções de privacidade"
 }

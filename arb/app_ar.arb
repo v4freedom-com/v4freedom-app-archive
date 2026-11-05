@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "اتصال VPN المميز الخاص بك نشط الآن.",
   "premiumVpnSetupFailedNotificationTitle": "فشل إعداد VPN",
   "premiumVpnSetupFailedNotificationBody": "لم نتمكن من إعداد VPN الخاص بك؛ يُرجى المحاولة مجددًا أو التواصل مع الدعم.",
+  "premiumVpnAddNetworkError": "تعذّر على شبكتك الوصول إلى خادم VPN. اتصل بأي VPN داخل التطبيق أو بدّل إلى شبكة أخرى، ثم حاول الإضافة مرة أخرى.",
   "redeemVoucher": "استرداد قسيمة",
   "redeemVoucherTitle": "استرداد قسيمة",
   "redeemVoucherHeading": "هل لديك رمز قسيمة؟",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "في انتظار الموافقة…",
   "vpnHelperActionFailed": "لم تنجح العملية. يمكنك المحاولة مرة أخرى أو استخدام وضع Proxy بدلاً من ذلك.",
   "vpnHelperCheckAgain": "تحقق مرة أخرى",
-  "vpnHelperStartFailed": "تعذّر على خدمة VPN بدء النفق: {reason}",
+  "vpnHelperStartFailed": "تعذّر بدء الاتصال. جرّب خادمًا آخر. إذا استمرت المشكلة، فأرسل تقريرًا من قسم الدعم.",
   "vpnHelperTunnelLost": "أوقفت خدمة VPN الاتصال. عادت شبكتك إلى وضعها الطبيعي.",
   "vpnHelperReleaseFailed": "تعذّر على VPN استعادة شبكتك. استخدم \"إعادة تعيين إعدادات الشبكة إلى الافتراضي\" للمحاولة مرة أخرى.",
   "certPinTitle": "التحقق من شهادة الخادم",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "التحديث مطلوب",
   "updateAvailableTitle": "يتوفر تحديث جديد",
-  "updateRequiredBody": "لم يعد هذا الإصدار مدعومًا. حدّث التطبيق لمواصلة استخدام V4Freedom.",
+  "updateRequiredBody": "لم يعد هذا الإصدار مدعومًا. حدّث التطبيق لمواصلة استخدام v4freedom.",
   "updateAvailableBody": "يتوفر إصدار جديد بتحسينات وإصلاحات.",
   "updateWhatsNew": "ما الجديد",
   "updateNow": "حدّث الآن",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "سيستخدم الآخرون عرض النطاق الترددي لخادمك، وقد يؤدي الاستخدام المكثف إلى اكتشافه وحظره بشكل أسرع.",
   "shareConnectionInfoPrivate": "اترك هذا الخيار مُعطّلًا لتبقى الإعدادات خاصة بك.",
   "shareConnectionThanks": "شكرًا لمساعدتك في إبقاء الإنترنت حرًا 💜",
-  "saveToCloudSubtitle": "زامِن هذه الإعدادات عبر أجهزتك."
+  "saveToCloudSubtitle": "زامِن هذه الإعدادات عبر أجهزتك.",
+  "privacyChoices": "خيارات الخصوصية"
 }

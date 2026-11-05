@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "ਤੁਹਾਡਾ ਪ੍ਰੀਮੀਅਮ VPN ਕਨੈਕਸ਼ਨ ਹੁਣ ਸਰਗਰਮ ਹੈ।",
   "premiumVpnSetupFailedNotificationTitle": "VPN ਸੈੱਟਅੱਪ ਅਸਫਲ ਰਿਹਾ",
   "premiumVpnSetupFailedNotificationBody": "ਅਸੀਂ ਤੁਹਾਡਾ VPN ਸੈੱਟ ਨਹੀਂ ਕਰ ਸਕੇ; ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜਾਂ ਸਹਾਇਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।",
+  "premiumVpnAddNetworkError": "ਤੁਹਾਡਾ ਨੈੱਟਵਰਕ VPN ਸਰਵਰ ਤੱਕ ਨਹੀਂ ਪਹੁੰਚ ਸਕਿਆ। ਐਪ ਵਿੱਚ ਕਿਸੇ ਵੀ VPN ਨਾਲ ਕਨੈਕਟ ਕਰੋ ਜਾਂ ਹੋਰ ਨੈੱਟਵਰਕ ਵਰਤੋ, ਫਿਰ ਦੁਬਾਰਾ ਜੋੜਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
   "redeemVoucher": "ਵਾਊਚਰ ਵਰਤੋ",
   "redeemVoucherTitle": "ਵਾਊਚਰ ਵਰਤੋ",
   "redeemVoucherHeading": "ਵਾਊਚਰ ਕੋਡ ਹੈ?",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "ਮਨਜ਼ੂਰੀ ਦੀ ਉਡੀਕ…",
   "vpnHelperActionFailed": "ਇਹ ਕੰਮ ਨਹੀਂ ਕੀਤਾ। ਤੁਸੀਂ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ, ਜਾਂ ਇਸਦੀ ਥਾਂ Proxy ਮੋਡ ਵਰਤੋ।",
   "vpnHelperCheckAgain": "ਦੁਬਾਰਾ ਜਾਂਚੋ",
-  "vpnHelperStartFailed": "VPN ਸੇਵਾ ਟਨਲ ਸ਼ੁਰੂ ਨਹੀਂ ਕਰ ਸਕੀ: {reason}",
+  "vpnHelperStartFailed": "ਕਨੈਕਸ਼ਨ ਸ਼ੁਰੂ ਨਹੀਂ ਹੋ ਸਕਿਆ। ਕੋਈ ਹੋਰ ਸਰਵਰ ਅਜ਼ਮਾਓ। ਜੇ ਸਮੱਸਿਆ ਜਾਰੀ ਰਹੇ, ਤਾਂ ਸਹਾਇਤਾ ਭਾਗ ਤੋਂ ਰਿਪੋਰਟ ਭੇਜੋ।",
   "vpnHelperTunnelLost": "VPN ਸੇਵਾ ਨੇ ਕਨੈਕਸ਼ਨ ਰੋਕ ਦਿੱਤਾ। ਤੁਹਾਡਾ ਨੈੱਟਵਰਕ ਆਮ ਵਾਂਗ ਹੋ ਗਿਆ ਹੈ।",
   "vpnHelperReleaseFailed": "VPN ਤੁਹਾਡਾ ਨੈੱਟਵਰਕ ਬਹਾਲ ਨਹੀਂ ਕਰ ਸਕਿਆ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ \"ਨੈੱਟਵਰਕ ਸੈਟਿੰਗਾਂ ਨੂੰ ਡਿਫਾਲਟ 'ਤੇ ਰੀਸੈੱਟ ਕਰੋ\" ਵਰਤੋ।",
   "certPinTitle": "ਸਰਵਰ ਦੇ ਸਰਟੀਫਿਕੇਟ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "ਅੱਪਡੇਟ ਲਾਜ਼ਮੀ ਹੈ",
   "updateAvailableTitle": "ਨਵਾਂ ਅੱਪਡੇਟ ਉਪਲਬਧ ਹੈ",
-  "updateRequiredBody": "ਇਹ ਵਰਜਨ ਹੁਣ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ। V4Freedom ਦੀ ਵਰਤੋਂ ਜਾਰੀ ਰੱਖਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।",
+  "updateRequiredBody": "ਇਹ ਵਰਜਨ ਹੁਣ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ। v4freedom ਦੀ ਵਰਤੋਂ ਜਾਰੀ ਰੱਖਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।",
   "updateAvailableBody": "ਸੁਧਾਰਾਂ ਅਤੇ ਬੱਗ ਫਿਕਸਾਂ ਵਾਲਾ ਨਵਾਂ ਵਰਜਨ ਤਿਆਰ ਹੈ।",
   "updateWhatsNew": "ਨਵਾਂ ਕੀ ਹੈ",
   "updateNow": "ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "ਹੋਰ ਲੋਕ ਤੁਹਾਡੇ ਸਰਵਰ ਦੀ ਬੈਂਡਵਿਡਥ ਵਰਤਣਗੇ, ਅਤੇ ਜ਼ਿਆਦਾ ਵਰਤੋਂ ਨਾਲ ਇਹ ਜਲਦੀ ਫੜਿਆ ਅਤੇ ਬਲੌਕ ਹੋ ਸਕਦਾ ਹੈ।",
   "shareConnectionInfoPrivate": "ਕੌਂਫਿਗ ਨੂੰ ਸਿਰਫ਼ ਆਪਣੇ ਲਈ ਰੱਖਣ ਲਈ ਇਸਨੂੰ ਬੰਦ ਰੱਖੋ।",
   "shareConnectionThanks": "ਇੰਟਰਨੈੱਟ ਨੂੰ ਆਜ਼ਾਦ ਰੱਖਣ ਵਿੱਚ ਮਦਦ ਲਈ ਧੰਨਵਾਦ 💜",
-  "saveToCloudSubtitle": "ਇਸ ਕੌਂਫਿਗ ਨੂੰ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਡਿਵਾਈਸਾਂ 'ਤੇ ਸਿੰਕ ਕਰੋ।"
+  "saveToCloudSubtitle": "ਇਸ ਕੌਂਫਿਗ ਨੂੰ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਡਿਵਾਈਸਾਂ 'ਤੇ ਸਿੰਕ ਕਰੋ।",
+  "privacyChoices": "ਗੋਪਨੀਯਤਾ ਵਿਕਲਪ"
 }

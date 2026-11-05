@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "آپ کا پریمیم VPN کنکشن اب فعال ہے۔",
   "premiumVpnSetupFailedNotificationTitle": "VPN سیٹ اپ ناکام رہا",
   "premiumVpnSetupFailedNotificationBody": "ہم آپ کا VPN ترتیب نہیں دے سکے؛ براہِ کرم دوبارہ کوشش کریں یا مدد سے رابطہ کریں۔",
+  "premiumVpnAddNetworkError": "آپ کا نیٹ ورک VPN سرور تک نہیں پہنچ سکا۔ ایپ میں کسی بھی VPN سے جڑیں یا دوسرا نیٹ ورک آزمائیں، پھر دوبارہ شامل کرنے کی کوشش کریں۔",
   "redeemVoucher": "واؤچر استعمال کریں",
   "redeemVoucherTitle": "واؤچر استعمال کریں",
   "redeemVoucherHeading": "واؤچر کوڈ ہے؟",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "منظوری کا انتظار…",
   "vpnHelperActionFailed": "یہ کام نہیں کیا۔ آپ دوبارہ کوشش کر سکتے ہیں، یا اس کی جگہ Proxy موڈ استعمال کریں۔",
   "vpnHelperCheckAgain": "دوبارہ جانچیں",
-  "vpnHelperStartFailed": "VPN سروس ٹنل شروع نہیں کر سکی: {reason}",
+  "vpnHelperStartFailed": "کنکشن شروع نہیں ہو سکا۔ کوئی دوسرا سرور آزمائیں۔ اگر مسئلہ برقرار رہے تو سپورٹ سیکشن سے رپورٹ بھیجیں۔",
   "vpnHelperTunnelLost": "VPN سروس نے کنکشن روک دیا۔ آپ کا نیٹ ورک معمول پر آ گیا ہے۔",
   "vpnHelperReleaseFailed": "VPN آپ کا نیٹ ورک بحال نہیں کر سکا۔ دوبارہ کوشش کے لیے \"نیٹ ورک سیٹنگز ڈیفالٹ پر ری سیٹ کریں\" استعمال کریں۔",
   "certPinTitle": "سرور کا سرٹیفکیٹ تصدیق کریں",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "اپ ڈیٹ ضروری ہے",
   "updateAvailableTitle": "نیا اپ ڈیٹ دستیاب ہے",
-  "updateRequiredBody": "یہ ورژن اب سپورٹ نہیں کیا جاتا۔ V4Freedom کا استعمال جاری رکھنے کے لیے اپ ڈیٹ کریں۔",
+  "updateRequiredBody": "یہ ورژن اب سپورٹ نہیں کیا جاتا۔ v4freedom کا استعمال جاری رکھنے کے لیے اپ ڈیٹ کریں۔",
   "updateAvailableBody": "بہتریوں اور اصلاحات کے ساتھ نیا ورژن تیار ہے۔",
   "updateWhatsNew": "نیا کیا ہے",
   "updateNow": "ابھی اپ ڈیٹ کریں",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "دوسرے لوگ آپ کے سرور کی بینڈوڈتھ استعمال کریں گے، اور زیادہ استعمال سے یہ جلد پکڑا اور بلاک ہو سکتا ہے۔",
   "shareConnectionInfoPrivate": "کنفیگ کو صرف اپنے لیے رکھنے کے لیے اسے بند رہنے دیں۔",
   "shareConnectionThanks": "انٹرنیٹ کو آزاد رکھنے میں مدد کا شکریہ 💜",
-  "saveToCloudSubtitle": "اس کنفیگ کو اپنی تمام ڈیوائسز پر سنک کریں۔"
+  "saveToCloudSubtitle": "اس کنفیگ کو اپنی تمام ڈیوائسز پر سنک کریں۔",
+  "privacyChoices": "رازداری کے اختیارات"
 }

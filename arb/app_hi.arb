@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "आपका प्रीमियम VPN कनेक्शन अब सक्रिय है।",
   "premiumVpnSetupFailedNotificationTitle": "VPN सेटअप विफल रहा",
   "premiumVpnSetupFailedNotificationBody": "हम आपका VPN सेट नहीं कर पाए। कृपया फिर कोशिश करें या सहायता टीम से संपर्क करें।",
+  "premiumVpnAddNetworkError": "आपका नेटवर्क VPN सर्वर तक नहीं पहुँच सका। ऐप में किसी भी VPN से कनेक्ट करें या दूसरा नेटवर्क आज़माएँ, फिर दोबारा जोड़ने की कोशिश करें।",
   "redeemVoucher": "वाउचर रिडीम करें",
   "redeemVoucherTitle": "वाउचर रिडीम करें",
   "redeemVoucherHeading": "क्या आपके पास वाउचर कोड है?",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "मंज़ूरी का इंतज़ार…",
   "vpnHelperActionFailed": "यह काम नहीं किया। आप फिर कोशिश कर सकते हैं, या इसके बजाय Proxy मोड इस्तेमाल करें।",
   "vpnHelperCheckAgain": "फिर से जाँचें",
-  "vpnHelperStartFailed": "VPN सेवा टनल शुरू नहीं कर सकी: {reason}",
+  "vpnHelperStartFailed": "कनेक्शन शुरू नहीं हो सका। कोई दूसरा सर्वर आज़माएँ। अगर समस्या बनी रहे, तो सहायता अनुभाग से रिपोर्ट भेजें।",
   "vpnHelperTunnelLost": "VPN सेवा ने कनेक्शन रोक दिया। आपका नेटवर्क सामान्य हो गया है।",
   "vpnHelperReleaseFailed": "VPN आपका नेटवर्क बहाल नहीं कर सका। फिर कोशिश करने के लिए \"नेटवर्क सेटिंग्स को डिफ़ॉल्ट पर रीसेट करें\" का उपयोग करें।",
   "certPinTitle": "सर्वर का प्रमाणपत्र सत्यापित करें",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "अपडेट आवश्यक है",
   "updateAvailableTitle": "नया अपडेट उपलब्ध है",
-  "updateRequiredBody": "यह संस्करण अब समर्थित नहीं है। V4Freedom का उपयोग जारी रखने के लिए अपडेट करें।",
+  "updateRequiredBody": "यह संस्करण अब समर्थित नहीं है। v4freedom का उपयोग जारी रखने के लिए अपडेट करें।",
   "updateAvailableBody": "सुधारों और बग फिक्स के साथ नया संस्करण तैयार है।",
   "updateWhatsNew": "नया क्या है",
   "updateNow": "अभी अपडेट करें",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "दूसरे लोग आपके सर्वर की बैंडविड्थ इस्तेमाल करेंगे, और ज़्यादा इस्तेमाल से यह जल्दी पकड़ा और ब्लॉक हो सकता है।",
   "shareConnectionInfoPrivate": "कॉन्फ़िग को केवल अपने लिए रखने के लिए इसे बंद रखें।",
   "shareConnectionThanks": "इंटरनेट को आज़ाद रखने में मदद के लिए धन्यवाद 💜",
-  "saveToCloudSubtitle": "इस कॉन्फ़िग को अपने सभी डिवाइस पर सिंक करें।"
+  "saveToCloudSubtitle": "इस कॉन्फ़िग को अपने सभी डिवाइस पर सिंक करें।",
+  "privacyChoices": "गोपनीयता विकल्प"
 }

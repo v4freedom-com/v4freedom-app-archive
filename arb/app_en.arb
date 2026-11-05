@@ -267,14 +267,7 @@
   "vpnHelperWorking": "Waiting for approval…",
   "vpnHelperActionFailed": "That did not work. You can try again, or use Proxy mode instead.",
   "vpnHelperCheckAgain": "Check again",
-  "vpnHelperStartFailed": "The VPN service could not start the tunnel: {reason}",
-  "@vpnHelperStartFailed": {
-    "placeholders": {
-      "reason": {
-        "type": "String"
-      }
-    }
-  },
+  "vpnHelperStartFailed": "The connection could not be started. Try another server. If this keeps happening, send a report from Support.",
   "vpnHelperTunnelLost": "The VPN service stopped the connection. Your network is back to normal.",
   "vpnHelperReleaseFailed": "The VPN could not restore your network. Use \"Reset Network Settings to Default\" to try again.",
   "cloudStorageLimitTitle": "You've reached your free limit",
@@ -797,6 +790,10 @@
   "premiumVpnReadyNotificationBody": "Your premium VPN connection is now active.",
   "premiumVpnSetupFailedNotificationTitle": "VPN setup failed",
   "premiumVpnSetupFailedNotificationBody": "We couldn't set up your VPN — please try again or contact support.",
+  "premiumVpnAddNetworkError": "Your network couldn't reach the VPN server. Connect to any VPN in the app or switch to another network, then try adding it again.",
+  "@premiumVpnAddNetworkError": {
+    "description": "Shown when adding a Premium VPN fails because the subscription could not be downloaded over the current network (timeout or connection error)."
+  },
   "redeemVoucher": "Redeem Voucher",
   "redeemVoucherTitle": "Redeem Voucher",
   "redeemVoucherHeading": "Have a voucher code?",
@@ -1565,7 +1562,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "Update required",
   "updateAvailableTitle": "Update available",
-  "updateRequiredBody": "This version is no longer supported. Update to keep using V4Freedom.",
+  "updateRequiredBody": "This version is no longer supported. Update to keep using v4freedom.",
   "updateAvailableBody": "A new version is ready with improvements and fixes.",
   "updateWhatsNew": "What's new",
   "updateNow": "Update now",
@@ -1628,5 +1625,6 @@
   "shareConnectionInfoCost": "Others will use your server's bandwidth, and heavy use may get it noticed and blocked sooner.",
   "shareConnectionInfoPrivate": "Leave this off to keep the config private to you.",
   "shareConnectionThanks": "Thank you for helping keep the internet free 💜",
-  "saveToCloudSubtitle": "Sync this config across your devices."
+  "saveToCloudSubtitle": "Sync this config across your devices.",
+  "privacyChoices": "Privacy choices"
 }

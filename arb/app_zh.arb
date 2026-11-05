@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "您的高级 VPN 连接现已生效。",
   "premiumVpnSetupFailedNotificationTitle": "VPN 设置失败",
   "premiumVpnSetupFailedNotificationBody": "我们未能设置您的 VPN。请重试或联系支持团队。",
+  "premiumVpnAddNetworkError": "您的网络无法连接到 VPN 服务器。请先连接应用内的任意 VPN 或切换到其他网络，然后再次尝试添加。",
   "redeemVoucher": "兑换优惠码",
   "redeemVoucherTitle": "兑换优惠码",
   "redeemVoucherHeading": "有优惠码吗？",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "正在等待批准…",
   "vpnHelperActionFailed": "操作未成功。您可以重试,或改用 Proxy 模式。",
   "vpnHelperCheckAgain": "重新检查",
-  "vpnHelperStartFailed": "VPN 服务无法启动隧道:{reason}",
+  "vpnHelperStartFailed": "无法启动连接。请尝试其他服务器。如果问题仍然存在,请从“支持”部分发送报告。",
   "vpnHelperTunnelLost": "VPN 服务已停止连接。您的网络已恢复正常。",
   "vpnHelperReleaseFailed": "VPN 无法恢复您的网络。请使用“将网络设置重置为默认值”再试一次。",
   "certPinTitle": "验证服务器证书",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "需要更新",
   "updateAvailableTitle": "有可用更新",
-  "updateRequiredBody": "此版本已不再受支持。请更新以继续使用 V4Freedom。",
+  "updateRequiredBody": "此版本已不再受支持。请更新以继续使用 v4freedom。",
   "updateAvailableBody": "包含改进和修复的新版本已就绪。",
   "updateWhatsNew": "新功能",
   "updateNow": "立即更新",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "其他人会使用你服务器的带宽，使用量大时可能更早被发现和封锁。",
   "shareConnectionInfoPrivate": "保持关闭即可让此配置仅供你自己使用。",
   "shareConnectionThanks": "感谢你帮助守护互联网自由 💜",
-  "saveToCloudSubtitle": "在你的所有设备间同步此配置。"
+  "saveToCloudSubtitle": "在你的所有设备间同步此配置。",
+  "privacyChoices": "隐私选择"
 }

@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "আপনার প্রিমিয়াম VPN সংযোগ এখন সক্রিয়।",
   "premiumVpnSetupFailedNotificationTitle": "VPN সেটআপ ব্যর্থ হয়েছে",
   "premiumVpnSetupFailedNotificationBody": "আমরা আপনার VPN সেটআপ করতে পারিনি; আবার চেষ্টা করুন বা সহায়তা দলের সঙ্গে যোগাযোগ করুন।",
+  "premiumVpnAddNetworkError": "আপনার নেটওয়ার্ক VPN সার্ভারে পৌঁছাতে পারেনি। অ্যাপের যেকোনো VPN-এ সংযোগ করুন বা অন্য নেটওয়ার্কে যান, তারপর আবার যোগ করার চেষ্টা করুন।",
   "redeemVoucher": "ভাউচার ব্যবহার করুন",
   "redeemVoucherTitle": "ভাউচার ব্যবহার করুন",
   "redeemVoucherHeading": "ভাউচার কোড আছে?",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "অনুমোদনের অপেক্ষায়…",
   "vpnHelperActionFailed": "কাজ হয়নি। আবার চেষ্টা করতে পারেন, অথবা এর বদলে Proxy মোড ব্যবহার করুন।",
   "vpnHelperCheckAgain": "আবার যাচাই করুন",
-  "vpnHelperStartFailed": "VPN পরিষেবা টানেল চালু করতে পারেনি: {reason}",
+  "vpnHelperStartFailed": "সংযোগ শুরু করা যায়নি। অন্য একটি সার্ভার চেষ্টা করুন। সমস্যা চলতে থাকলে সহায়তা বিভাগ থেকে একটি রিপোর্ট পাঠান।",
   "vpnHelperTunnelLost": "VPN পরিষেবা সংযোগ বন্ধ করেছে। আপনার নেটওয়ার্ক স্বাভাবিক অবস্থায় ফিরেছে।",
   "vpnHelperReleaseFailed": "VPN আপনার নেটওয়ার্ক ফিরিয়ে আনতে পারেনি। আবার চেষ্টা করতে \"নেটওয়ার্ক সেটিংস ডিফল্টে রিসেট করুন\" ব্যবহার করুন।",
   "certPinTitle": "সার্ভারের সার্টিফিকেট যাচাই করুন",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "আপডেট আবশ্যক",
   "updateAvailableTitle": "নতুন আপডেট উপলব্ধ",
-  "updateRequiredBody": "এই সংস্করণটি আর সমর্থিত নয়। V4Freedom ব্যবহার চালিয়ে যেতে আপডেট করুন।",
+  "updateRequiredBody": "এই সংস্করণটি আর সমর্থিত নয়। v4freedom ব্যবহার চালিয়ে যেতে আপডেট করুন।",
   "updateAvailableBody": "উন্নতি ও ত্রুটি সংশোধনসহ নতুন সংস্করণ প্রস্তুত।",
   "updateWhatsNew": "নতুন কী আছে",
   "updateNow": "এখনই আপডেট করুন",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "অন্যরা আপনার সার্ভারের ব্যান্ডউইথ ব্যবহার করবে, এবং বেশি ব্যবহারে এটি দ্রুত শনাক্ত ও ব্লক হতে পারে।",
   "shareConnectionInfoPrivate": "কনফিগটি শুধু নিজের জন্য রাখতে এটি বন্ধ রাখুন।",
   "shareConnectionThanks": "ইন্টারনেট মুক্ত রাখতে সাহায্য করার জন্য ধন্যবাদ 💜",
-  "saveToCloudSubtitle": "আপনার ডিভাইসগুলোর মধ্যে এই কনফিগ সিঙ্ক করুন।"
+  "saveToCloudSubtitle": "আপনার ডিভাইসগুলোর মধ্যে এই কনফিগ সিঙ্ক করুন।",
+  "privacyChoices": "গোপনীয়তার বিকল্প"
 }

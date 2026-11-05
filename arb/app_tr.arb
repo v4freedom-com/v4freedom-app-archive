@@ -762,6 +762,7 @@
   "premiumVpnReadyNotificationBody": "Premium VPN bağlantınız artık etkin.",
   "premiumVpnSetupFailedNotificationTitle": "VPN kurulumu başarısız",
   "premiumVpnSetupFailedNotificationBody": "VPN’inizi kuramadık; lütfen tekrar deneyin veya destek ekibiyle iletişime geçin.",
+  "premiumVpnAddNetworkError": "Ağınız VPN sunucusuna ulaşamadı. Uygulamadaki herhangi bir VPN'e bağlanın veya başka bir ağa geçin, ardından tekrar eklemeyi deneyin.",
   "redeemVoucher": "Kupon kullan",
   "redeemVoucherTitle": "Kupon kullan",
   "redeemVoucherHeading": "Kupon kodunuz var mı?",
@@ -1392,7 +1393,7 @@
   "vpnHelperWorking": "Onay bekleniyor…",
   "vpnHelperActionFailed": "İşe yaramadı. Yeniden deneyebilir veya bunun yerine Proxy modunu kullanabilirsiniz.",
   "vpnHelperCheckAgain": "Yeniden kontrol et",
-  "vpnHelperStartFailed": "VPN hizmeti tüneli başlatamadı: {reason}",
+  "vpnHelperStartFailed": "Bağlantı başlatılamadı. Başka bir sunucu deneyin. Sorun devam ederse Destek bölümünden rapor gönderin.",
   "vpnHelperTunnelLost": "VPN hizmeti bağlantıyı durdurdu. Ağınız normale döndü.",
   "vpnHelperReleaseFailed": "VPN ağınızı geri yükleyemedi. Yeniden denemek için \"Ağ Ayarlarını Varsayılana Sıfırla\" seçeneğini kullanın.",
   "certPinTitle": "Sunucu sertifikasını doğrulayın",
@@ -1524,7 +1525,7 @@
   "vpnOptimizerDownload": "Download",
   "updateRequiredTitle": "Güncelleme gerekli",
   "updateAvailableTitle": "Güncelleme mevcut",
-  "updateRequiredBody": "Bu sürüm artık desteklenmiyor. V4Freedom'u kullanmaya devam etmek için güncelleyin.",
+  "updateRequiredBody": "Bu sürüm artık desteklenmiyor. v4freedom'u kullanmaya devam etmek için güncelleyin.",
   "updateAvailableBody": "İyileştirmeler ve düzeltmeler içeren yeni bir sürüm hazır.",
   "updateWhatsNew": "Yenilikler",
   "updateNow": "Şimdi güncelle",
@@ -1587,5 +1588,6 @@
   "shareConnectionInfoCost": "Başkaları sunucunun bant genişliğini kullanır ve yoğun kullanım sunucunun daha erken fark edilip engellenmesine yol açabilir.",
   "shareConnectionInfoPrivate": "Yapılandırmayı yalnızca kendine saklamak için bunu kapalı bırak.",
   "shareConnectionThanks": "İnterneti özgür tutmaya yardım ettiğin için teşekkürler 💜",
-  "saveToCloudSubtitle": "Bu yapılandırmayı cihazların arasında eşitle."
+  "saveToCloudSubtitle": "Bu yapılandırmayı cihazların arasında eşitle.",
+  "privacyChoices": "Gizlilik seçenekleri"
 }
